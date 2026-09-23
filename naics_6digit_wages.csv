@@ -1,0 +1,984 @@
+code,title,wage,wage_source_level,wage_source_naics
+111110,Soybean Farming,,,
+111120,Oilseed (except Soybean) Farming,,,
+111130,Dry Pea and Bean Farming,,,
+111140,Wheat Farming,,,
+111150,Corn Farming,,,
+111160,Rice Farming,,,
+111191,Oilseed and Grain Combination Farming,,,
+111199,All Other Grain Farming,,,
+111211,Potato Farming,,,
+111219,Other Vegetable (except Potato) and Melon Farming,,,
+111310,Orange Groves,,,
+111320,Citrus (except Orange) Groves,,,
+111331,Apple Orchards,,,
+111332,Grape Vineyards,,,
+111333,Strawberry Farming,,,
+111334,Berry (except Strawberry) Farming,,,
+111335,Tree Nut Farming,,,
+111336,Fruit and Tree Nut Combination Farming,,,
+111339,Other Noncitrus Fruit Farming,,,
+111411,Mushroom Production,,,
+111419,Other Food Crops Grown Under Cover,,,
+111421,Nursery and Tree Production,,,
+111422,Floriculture Production,,,
+111910,Tobacco Farming,,,
+111920,Cotton Farming,,,
+111930,Sugarcane Farming,,,
+111940,Hay Farming,,,
+111991,Sugar Beet Farming,,,
+111992,Peanut Farming,,,
+111998,All Other Miscellaneous Crop Farming,,,
+112111,Beef Cattle Ranching and Farming,,,
+112112,Cattle Feedlots,,,
+112120,Dairy Cattle and Milk Production,,,
+112130,Dual-Purpose Cattle Ranching and Farming,,,
+112210,Hog and Pig Farming,,,
+112310,Chicken Egg Production,,,
+112320,Broilers and Other Meat Type Chicken Production,,,
+112330,Turkey Production,,,
+112340,Poultry Hatcheries,,,
+112390,Other Poultry Production,,,
+112410,Sheep Farming,,,
+112420,Goat Farming,,,
+112511,Finfish Farming and Fish Hatcheries,,,
+112512,Shellfish Farming,,,
+112519,Other Aquaculture,,,
+112910,Apiculture,,,
+112920,Horses and Other Equine Production,,,
+112930,Fur-Bearing Animal and Rabbit Production,,,
+112990,All Other Animal Production,,,
+113110,Timber Tract Operations,56690.0,3-digit,113000
+113210,Forest Nurseries and Gathering of Forest Products,56690.0,3-digit,113000
+113310,Logging,56690.0,4-digit,113300
+114111,Finfish Fishing,,,
+114112,Shellfish Fishing,,,
+114119,Other Marine Fishing,,,
+114210,Hunting and Trapping,,,
+115111,Cotton Ginning,42750.0,4-digit,115100
+115112,"Soil Preparation, Planting, and Cultivating",42750.0,4-digit,115100
+115113,"Crop Harvesting, Primarily by Machine",42750.0,4-digit,115100
+115114,Postharvest Crop Activities (except Cotton Ginning),42750.0,4-digit,115100
+115115,Farm Labor Contractors and Crew Leaders,42750.0,4-digit,115100
+115116,Farm Management Services,42750.0,4-digit,115100
+115210,Support Activities for Animal Production,48210.0,4-digit,115200
+115310,Support Activities for Forestry,43230.0,3-digit,115000
+211120,Crude Petroleum Extraction,122890.0,4-digit,211100
+211130,Natural Gas Extraction,122890.0,4-digit,211100
+212114,Surface Coal Mining,84180.0,4-digit,212100
+212115,Underground Coal Mining,84180.0,4-digit,212100
+212210,Iron Ore Mining,82200.0,4-digit,212200
+212220,Gold Ore and Silver Ore Mining,82200.0,4-digit,212200
+212230,"Copper, Nickel, Lead, and Zinc Mining",82200.0,4-digit,212200
+212290,Other Metal Ore Mining,82200.0,4-digit,212200
+212311,Dimension Stone Mining and Quarrying,66090.0,4-digit,212300
+212312,Crushed and Broken Limestone Mining and Quarrying,66090.0,4-digit,212300
+212313,Crushed and Broken Granite Mining and Quarrying,66090.0,4-digit,212300
+212319,Other Crushed and Broken Stone Mining and Quarrying,66090.0,4-digit,212300
+212321,Construction Sand and Gravel Mining,66090.0,4-digit,212300
+212322,Industrial Sand Mining,66090.0,4-digit,212300
+212323,"Kaolin, Clay, and Ceramic and Refractory Minerals Mining",66090.0,4-digit,212300
+212390,Other Nonmetallic Mineral Mining and Quarrying,66090.0,4-digit,212300
+213111,Drilling Oil and Gas Wells,71380.0,4-digit,213100
+213112,Support Activities for Oil and Gas Operations,71380.0,4-digit,213100
+213113,Support Activities for Coal Mining,71380.0,4-digit,213100
+213114,Support Activities for Metal Mining,71380.0,4-digit,213100
+213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining,71380.0,4-digit,213100
+221111,Hydroelectric Power Generation,112860.0,6-digit,221111
+221112,Fossil Fuel Electric Power Generation,114250.0,6-digit,221112
+221113,Nuclear Electric Power Generation,121620.0,6-digit,221113
+221114,Solar Electric Power Generation,99110.0,6-digit,221114
+221115,Wind Electric Power Generation,99590.0,6-digit,221115
+221116,Geothermal Electric Power Generation,99940.0,6-digit,221116
+221117,Biomass Electric Power Generation,96180.0,6-digit,221117
+221118,Other Electric Power Generation,116260.0,6-digit,221118
+221121,Electric Bulk Power Transmission and Control,107870.0,4-digit,221100
+221122,Electric Power Distribution,107870.0,4-digit,221100
+221210,Natural Gas Distribution,107660.0,4-digit,221200
+221310,Water Supply and Irrigation Systems,70940.0,4-digit,221300
+221320,Sewage Treatment Facilities,70940.0,4-digit,221300
+221330,Steam and Air-Conditioning Supply,70940.0,4-digit,221300
+236115,New Single-Family Housing Construction (except For-Sale Builders),70280.0,4-digit,236100
+236116,New Multifamily Housing Construction (except For-Sale Builders),70280.0,4-digit,236100
+236117,New Housing For-Sale Builders,70280.0,4-digit,236100
+236118,Residential Remodelers,70280.0,4-digit,236100
+236210,Industrial Building Construction,87610.0,4-digit,236200
+236220,Commercial and Institutional Building Construction,87610.0,4-digit,236200
+237110,Water and Sewer Line and Related Structures Construction,74380.0,4-digit,237100
+237120,Oil and Gas Pipeline and Related Structures Construction,74380.0,4-digit,237100
+237130,Power and Communication Line and Related Structures Construction,77370.0,5-digit,237130
+237210,Land Subdivision,93480.0,4-digit,237200
+237310,"Highway, Street, and Bridge Construction",75590.0,4-digit,237300
+237990,Other Heavy and Civil Engineering Construction,75150.0,4-digit,237900
+238110,Poured Concrete Foundation and Structure Contractors,64880.0,5-digit,238110
+238120,Structural Steel and Precast Concrete Contractors,65950.0,4-digit,238100
+238130,Framing Contractors,65950.0,4-digit,238100
+238140,Masonry Contractors,64860.0,5-digit,238140
+238150,Glass and Glazing Contractors,65950.0,4-digit,238100
+238160,Roofing Contractors,65160.0,5-digit,238160
+238170,Siding Contractors,65950.0,4-digit,238100
+238190,"Other Foundation, Structure, and Building Exterior Contractors",65950.0,4-digit,238100
+238210,Electrical Contractors and Other Wiring Installation Contractors,74390.0,5-digit,238210
+238220,"Plumbing, Heating, and Air-Conditioning Contractors",71020.0,5-digit,238220
+238290,Other Building Equipment Contractors,79210.0,5-digit,238290
+238310,Drywall and Insulation Contractors,68160.0,5-digit,238310
+238320,Painting and Wall Covering Contractors,59480.0,5-digit,238320
+238330,Flooring Contractors,64210.0,4-digit,238300
+238340,Tile and Terrazzo Contractors,64210.0,4-digit,238300
+238350,Finish Carpentry Contractors,64210.0,4-digit,238300
+238390,Other Building Finishing Contractors,64210.0,4-digit,238300
+238910,Site Preparation Contractors,65300.0,4-digit,238900
+238990,All Other Specialty Trade Contractors,65300.0,4-digit,238900
+311111,Dog and Cat Food Manufacturing,60880.0,4-digit,311100
+311119,Other Animal Food Manufacturing,60880.0,4-digit,311100
+311211,Flour Milling,69250.0,4-digit,311200
+311212,Rice Milling,69250.0,4-digit,311200
+311213,Malt Manufacturing,69250.0,4-digit,311200
+311221,Wet Corn Milling and Starch Manufacturing,69250.0,4-digit,311200
+311224,Soybean and Other Oilseed Processing,69250.0,4-digit,311200
+311225,Fats and Oils Refining and Blending,69250.0,4-digit,311200
+311230,Breakfast Cereal Manufacturing,69250.0,4-digit,311200
+311313,Beet Sugar Manufacturing,55310.0,4-digit,311300
+311314,Cane Sugar Manufacturing,55310.0,4-digit,311300
+311340,Nonchocolate Confectionery Manufacturing,55310.0,4-digit,311300
+311351,Chocolate and Confectionery Manufacturing from Cacao Beans,55310.0,4-digit,311300
+311352,Confectionery Manufacturing from Purchased Chocolate,55310.0,4-digit,311300
+311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",55250.0,4-digit,311400
+311412,Frozen Specialty Food Manufacturing,55250.0,4-digit,311400
+311421,Fruit and Vegetable Canning,55250.0,4-digit,311400
+311422,Specialty Canning,55250.0,4-digit,311400
+311423,Dried and Dehydrated Food Manufacturing,55250.0,4-digit,311400
+311511,Fluid Milk Manufacturing,59820.0,4-digit,311500
+311512,Creamery Butter Manufacturing,59820.0,4-digit,311500
+311513,Cheese Manufacturing,59820.0,4-digit,311500
+311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing",59820.0,4-digit,311500
+311520,Ice Cream and Frozen Dessert Manufacturing,59820.0,4-digit,311500
+311611,Animal (except Poultry) Slaughtering,47380.0,4-digit,311600
+311612,Meat Processed from Carcasses,47380.0,4-digit,311600
+311613,Rendering and Meat Byproduct Processing,47380.0,4-digit,311600
+311615,Poultry Processing,47380.0,4-digit,311600
+311710,Seafood Product Preparation and Packaging,49750.0,4-digit,311700
+311811,Retail Bakeries,47050.0,4-digit,311800
+311812,Commercial Bakeries,47050.0,4-digit,311800
+311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing",47050.0,4-digit,311800
+311821,Cookie and Cracker Manufacturing,47050.0,4-digit,311800
+311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",47050.0,4-digit,311800
+311830,Tortilla Manufacturing,47050.0,4-digit,311800
+311911,Roasted Nuts and Peanut Butter Manufacturing,57570.0,4-digit,311900
+311919,Other Snack Food Manufacturing,57570.0,4-digit,311900
+311920,Coffee and Tea Manufacturing,57570.0,4-digit,311900
+311930,Flavoring Syrup and Concentrate Manufacturing,57570.0,4-digit,311900
+311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",57570.0,4-digit,311900
+311942,Spice and Extract Manufacturing,57570.0,4-digit,311900
+311991,Perishable Prepared Food Manufacturing,57570.0,4-digit,311900
+311999,All Other Miscellaneous Food Manufacturing,57570.0,4-digit,311900
+312111,Soft Drink Manufacturing,57820.0,4-digit,312100
+312112,Bottled Water Manufacturing,57820.0,4-digit,312100
+312113,Ice Manufacturing,57820.0,4-digit,312100
+312120,Breweries,57820.0,4-digit,312100
+312130,Wineries,57820.0,4-digit,312100
+312140,Distilleries,57820.0,4-digit,312100
+312230,Tobacco Manufacturing,72750.0,4-digit,312200
+313110,"Fiber, Yarn, and Thread Mills",45180.0,4-digit,313100
+313210,Broadwoven Fabric Mills,53480.0,4-digit,313200
+313220,Narrow Fabric Mills and Schiffli Machine Embroidery,53480.0,4-digit,313200
+313230,Nonwoven Fabric Mills,53480.0,4-digit,313200
+313240,Knit Fabric Mills,53480.0,4-digit,313200
+313310,Textile and Fabric Finishing Mills,57450.0,4-digit,313300
+313320,Fabric Coating Mills,57450.0,4-digit,313300
+314110,Carpet and Rug Mills,48340.0,4-digit,314100
+314120,Curtain and Linen Mills,48340.0,4-digit,314100
+314910,Textile Bag and Canvas Mills,49820.0,4-digit,314900
+314994,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",49820.0,4-digit,314900
+314999,All Other Miscellaneous Textile Product Mills,49820.0,4-digit,314900
+315120,Apparel Knitting Mills,42110.0,4-digit,315100
+315210,Cut and Sew Apparel Contractors,57100.0,4-digit,315200
+315250,Cut and Sew Apparel Manufacturing (except Contractors),57100.0,4-digit,315200
+315990,Apparel Accessories and Other Apparel Manufacturing,49110.0,4-digit,315900
+316110,Leather and Hide Tanning and Finishing,51140.0,4-digit,316100
+316210,Footwear Manufacturing,45820.0,4-digit,316200
+316990,Other Leather and Allied Product Manufacturing,50680.0,4-digit,316900
+321113,Sawmills,52520.0,4-digit,321100
+321114,Wood Preservation,52520.0,4-digit,321100
+321211,Hardwood Veneer and Plywood Manufacturing,54340.0,4-digit,321200
+321212,Softwood Veneer and Plywood Manufacturing,54340.0,4-digit,321200
+321215,Engineered Wood Member Manufacturing,54340.0,4-digit,321200
+321219,Reconstituted Wood Product Manufacturing,54340.0,4-digit,321200
+321911,Wood Window and Door Manufacturing,51630.0,4-digit,321900
+321912,"Cut Stock, Resawing Lumber, and Planing",51630.0,4-digit,321900
+321918,Other Millwork (including Flooring),51630.0,4-digit,321900
+321920,Wood Container and Pallet Manufacturing,51630.0,4-digit,321900
+321991,Manufactured Home (Mobile Home) Manufacturing,51630.0,4-digit,321900
+321992,Prefabricated Wood Building Manufacturing,51630.0,4-digit,321900
+321999,All Other Miscellaneous Wood Product Manufacturing,51630.0,4-digit,321900
+322110,Pulp Mills,80500.0,4-digit,322100
+322120,Paper Mills,80500.0,4-digit,322100
+322130,Paperboard Mills,80500.0,4-digit,322100
+322211,Corrugated and Solid Fiber Box Manufacturing,63060.0,4-digit,322200
+322212,Folding Paperboard Box Manufacturing,63060.0,4-digit,322200
+322219,Other Paperboard Container Manufacturing,63060.0,4-digit,322200
+322220,Paper Bag and Coated and Treated Paper Manufacturing,63060.0,4-digit,322200
+322230,Stationery Product Manufacturing,63060.0,4-digit,322200
+322291,Sanitary Paper Product Manufacturing,63060.0,4-digit,322200
+322299,All Other Converted Paper Product Manufacturing,63060.0,4-digit,322200
+323111,Commercial Printing (except Screen and Books),55810.0,4-digit,323100
+323113,Commercial Screen Printing,55810.0,4-digit,323100
+323117,Books Printing,55810.0,4-digit,323100
+323120,Support Activities for Printing,55810.0,4-digit,323100
+324110,Petroleum Refineries,98280.0,4-digit,324100
+324121,Asphalt Paving Mixture and Block Manufacturing,98280.0,4-digit,324100
+324122,Asphalt Shingle and Coating Materials Manufacturing,98280.0,4-digit,324100
+324191,Petroleum Lubricating Oil and Grease Manufacturing,98280.0,4-digit,324100
+324199,All Other Petroleum and Coal Products Manufacturing,98280.0,4-digit,324100
+325110,Petrochemical Manufacturing,84520.0,3-digit,325000
+325120,Industrial Gas Manufacturing,84520.0,3-digit,325000
+325130,Synthetic Dye and Pigment Manufacturing,84520.0,3-digit,325000
+325180,Other Basic Inorganic Chemical Manufacturing,84520.0,3-digit,325000
+325193,Ethyl Alcohol Manufacturing,84520.0,3-digit,325000
+325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",84520.0,3-digit,325000
+325199,All Other Basic Organic Chemical Manufacturing,84520.0,3-digit,325000
+325211,Plastics Material and Resin Manufacturing,84520.0,3-digit,325000
+325212,Synthetic Rubber Manufacturing,84520.0,3-digit,325000
+325220,Artificial and Synthetic Fibers and Filaments Manufacturing,84520.0,3-digit,325000
+325311,Nitrogenous Fertilizer Manufacturing,84520.0,3-digit,325000
+325312,Phosphatic Fertilizer Manufacturing,84520.0,3-digit,325000
+325314,Fertilizer (Mixing Only) Manufacturing,84520.0,3-digit,325000
+325315,Compost Manufacturing,84520.0,3-digit,325000
+325320,Pesticide and Other Agricultural Chemical Manufacturing,84520.0,3-digit,325000
+325411,Medicinal and Botanical Manufacturing,91390.0,4-digit,325400
+325412,Pharmaceutical Preparation Manufacturing,91390.0,4-digit,325400
+325413,In-Vitro Diagnostic Substance Manufacturing,91390.0,4-digit,325400
+325414,Biological Product (except Diagnostic) Manufacturing,91390.0,4-digit,325400
+325510,Paint and Coating Manufacturing,84520.0,3-digit,325000
+325520,Adhesive Manufacturing,84520.0,3-digit,325000
+325611,Soap and Other Detergent Manufacturing,84520.0,3-digit,325000
+325612,Polish and Other Sanitation Good Manufacturing,84520.0,3-digit,325000
+325613,Surface Active Agent Manufacturing,84520.0,3-digit,325000
+325620,Toilet Preparation Manufacturing,84520.0,3-digit,325000
+325910,Printing Ink Manufacturing,84520.0,3-digit,325000
+325920,Explosives Manufacturing,84520.0,3-digit,325000
+325991,Custom Compounding of Purchased Resins,84520.0,3-digit,325000
+325992,"Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing",84520.0,3-digit,325000
+325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing,84520.0,3-digit,325000
+326111,Plastics Bag and Pouch Manufacturing,58470.0,4-digit,326100
+326112,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,58470.0,4-digit,326100
+326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing,58470.0,4-digit,326100
+326121,Unlaminated Plastics Profile Shape Manufacturing,58470.0,4-digit,326100
+326122,Plastics Pipe and Pipe Fitting Manufacturing,58470.0,4-digit,326100
+326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",58470.0,4-digit,326100
+326140,Polystyrene Foam Product Manufacturing,58470.0,4-digit,326100
+326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing,58470.0,4-digit,326100
+326160,Plastics Bottle Manufacturing,58470.0,4-digit,326100
+326191,Plastics Plumbing Fixture Manufacturing,58470.0,4-digit,326100
+326199,All Other Plastics Product Manufacturing,58470.0,4-digit,326100
+326211,Tire Manufacturing (except Retreading),62360.0,4-digit,326200
+326212,Tire Retreading,62360.0,4-digit,326200
+326220,Rubber and Plastics Hoses and Belting Manufacturing,62360.0,4-digit,326200
+326291,Rubber Product Manufacturing for Mechanical Use,62360.0,4-digit,326200
+326299,All Other Rubber Product Manufacturing,62360.0,4-digit,326200
+327110,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",62190.0,3-digit,327000
+327120,Clay Building Material and Refractories Manufacturing,62190.0,3-digit,327000
+327211,Flat Glass Manufacturing,62190.0,3-digit,327000
+327212,Other Pressed and Blown Glass and Glassware Manufacturing,62190.0,3-digit,327000
+327213,Glass Container Manufacturing,62190.0,3-digit,327000
+327215,Glass Product Manufacturing Made of Purchased Glass,62190.0,3-digit,327000
+327310,Cement Manufacturing,62190.0,3-digit,327000
+327320,Ready-Mix Concrete Manufacturing,62190.0,3-digit,327000
+327331,Concrete Block and Brick Manufacturing,62190.0,3-digit,327000
+327332,Concrete Pipe Manufacturing,62190.0,3-digit,327000
+327390,Other Concrete Product Manufacturing,62190.0,3-digit,327000
+327410,Lime Manufacturing,62190.0,3-digit,327000
+327420,Gypsum Product Manufacturing,62190.0,3-digit,327000
+327910,Abrasive Product Manufacturing,62190.0,3-digit,327000
+327991,Cut Stone and Stone Product Manufacturing,62190.0,3-digit,327000
+327992,Ground or Treated Mineral and Earth Manufacturing,62190.0,3-digit,327000
+327993,Mineral Wool Manufacturing,62190.0,3-digit,327000
+327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,62190.0,3-digit,327000
+331110,Iron and Steel Mills and Ferroalloy Manufacturing,68290.0,4-digit,331100
+331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,65720.0,4-digit,331200
+331221,Rolled Steel Shape Manufacturing,65720.0,4-digit,331200
+331222,Steel Wire Drawing,65720.0,4-digit,331200
+331313,Alumina Refining and Primary Aluminum Production,66670.0,4-digit,331300
+331314,Secondary Smelting and Alloying of Aluminum,66670.0,4-digit,331300
+331315,"Aluminum Sheet, Plate, and Foil Manufacturing",66670.0,4-digit,331300
+331318,"Other Aluminum Rolling, Drawing, and Extruding",66670.0,4-digit,331300
+331410,Nonferrous Metal (except Aluminum) Smelting and Refining,70430.0,4-digit,331400
+331420,"Copper Rolling, Drawing, Extruding, and Alloying",70430.0,4-digit,331400
+331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",70430.0,4-digit,331400
+331492,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",70430.0,4-digit,331400
+331511,Iron Foundries,60880.0,4-digit,331500
+331512,Steel Investment Foundries,60880.0,4-digit,331500
+331513,Steel Foundries (except Investment),60880.0,4-digit,331500
+331523,Nonferrous Metal Die-Casting Foundries,60880.0,4-digit,331500
+331524,Aluminum Foundries (except Die-Casting),60880.0,4-digit,331500
+331529,Other Nonferrous Metal Foundries (except Die-Casting),60880.0,4-digit,331500
+332111,Iron and Steel Forging,62740.0,3-digit,332000
+332112,Nonferrous Forging,62740.0,3-digit,332000
+332114,Custom Roll Forming,62740.0,3-digit,332000
+332117,Powder Metallurgy Part Manufacturing,62740.0,3-digit,332000
+332119,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",62740.0,3-digit,332000
+332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",62740.0,3-digit,332000
+332216,Saw Blade and Handtool Manufacturing,62740.0,3-digit,332000
+332311,Prefabricated Metal Building and Component Manufacturing,62740.0,3-digit,332000
+332312,Fabricated Structural Metal Manufacturing,62740.0,3-digit,332000
+332313,Plate Work Manufacturing,62740.0,3-digit,332000
+332321,Metal Window and Door Manufacturing,62740.0,3-digit,332000
+332322,Sheet Metal Work Manufacturing,62740.0,3-digit,332000
+332323,Ornamental and Architectural Metal Work Manufacturing,62740.0,3-digit,332000
+332410,Power Boiler and Heat Exchanger Manufacturing,62740.0,3-digit,332000
+332420,Metal Tank (Heavy Gauge) Manufacturing,62740.0,3-digit,332000
+332431,Metal Can Manufacturing,62740.0,3-digit,332000
+332439,Other Metal Container Manufacturing,62740.0,3-digit,332000
+332510,Hardware Manufacturing,62740.0,3-digit,332000
+332613,Spring Manufacturing,62740.0,3-digit,332000
+332618,Other Fabricated Wire Product Manufacturing,62740.0,3-digit,332000
+332710,Machine Shops,62890.0,5-digit,332710
+332721,Precision Turned Product Manufacturing,63720.0,5-digit,332720
+332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",63720.0,5-digit,332720
+332811,Metal Heat Treating,55220.0,4-digit,332800
+332812,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",55220.0,4-digit,332800
+332813,"Electroplating, Plating, Polishing, Anodizing, and Coloring",55220.0,4-digit,332800
+332911,Industrial Valve Manufacturing,62740.0,3-digit,332000
+332912,Fluid Power Valve and Hose Fitting Manufacturing,62740.0,3-digit,332000
+332913,Plumbing Fixture Fitting and Trim Manufacturing,62740.0,3-digit,332000
+332919,Other Metal Valve and Pipe Fitting Manufacturing,62740.0,3-digit,332000
+332991,Ball and Roller Bearing Manufacturing,62740.0,3-digit,332000
+332992,Small Arms Ammunition Manufacturing,62740.0,3-digit,332000
+332993,Ammunition (except Small Arms) Manufacturing,62740.0,3-digit,332000
+332994,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",62740.0,3-digit,332000
+332996,Fabricated Pipe and Pipe Fitting Manufacturing,62740.0,3-digit,332000
+332999,All Other Miscellaneous Fabricated Metal Product Manufacturing,62740.0,3-digit,332000
+333111,Farm Machinery and Equipment Manufacturing,73820.0,3-digit,333000
+333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,73820.0,3-digit,333000
+333120,Construction Machinery Manufacturing,73820.0,3-digit,333000
+333131,Mining Machinery and Equipment Manufacturing,73820.0,3-digit,333000
+333132,Oil and Gas Field Machinery and Equipment Manufacturing,73820.0,3-digit,333000
+333241,Food Product Machinery Manufacturing,73820.0,3-digit,333000
+333242,Semiconductor Machinery Manufacturing,73820.0,3-digit,333000
+333243,"Sawmill, Woodworking, and Paper Machinery Manufacturing",73820.0,3-digit,333000
+333248,All Other Industrial Machinery Manufacturing,73820.0,3-digit,333000
+333310,Commercial and Service Industry Machinery Manufacturing,81050.0,4-digit,333300
+333413,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,73820.0,3-digit,333000
+333414,Heating Equipment (except Warm Air Furnaces) Manufacturing,73820.0,3-digit,333000
+333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,73820.0,3-digit,333000
+333511,Industrial Mold Manufacturing,67280.0,4-digit,333500
+333514,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",67280.0,4-digit,333500
+333515,Cutting Tool and Machine Tool Accessory Manufacturing,67280.0,4-digit,333500
+333517,Machine Tool Manufacturing,67280.0,4-digit,333500
+333519,Rolling Mill and Other Metalworking Machinery Manufacturing,67280.0,4-digit,333500
+333611,Turbine and Turbine Generator Set Units Manufacturing,81340.0,4-digit,333600
+333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",81340.0,4-digit,333600
+333613,Mechanical Power Transmission Equipment Manufacturing,81340.0,4-digit,333600
+333618,Other Engine Equipment Manufacturing,81340.0,4-digit,333600
+333912,Air and Gas Compressor Manufacturing,73820.0,3-digit,333000
+333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",73820.0,3-digit,333000
+333921,Elevator and Moving Stairway Manufacturing,73820.0,3-digit,333000
+333922,Conveyor and Conveying Equipment Manufacturing,73820.0,3-digit,333000
+333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",73820.0,3-digit,333000
+333924,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",73820.0,3-digit,333000
+333991,Power-Driven Handtool Manufacturing,73820.0,3-digit,333000
+333992,Welding and Soldering Equipment Manufacturing,73820.0,3-digit,333000
+333993,Packaging Machinery Manufacturing,73820.0,3-digit,333000
+333994,Industrial Process Furnace and Oven Manufacturing,73820.0,3-digit,333000
+333995,Fluid Power Cylinder and Actuator Manufacturing,73820.0,3-digit,333000
+333996,Fluid Power Pump and Motor Manufacturing,73820.0,3-digit,333000
+333998,All Other Miscellaneous General Purpose Machinery Manufacturing,73820.0,3-digit,333000
+334111,Electronic Computer Manufacturing,122050.0,4-digit,334100
+334112,Computer Storage Device Manufacturing,122050.0,4-digit,334100
+334118,Computer Terminal and Other Computer Peripheral Equipment Manufacturing,122050.0,4-digit,334100
+334210,Telephone Apparatus Manufacturing,103880.0,4-digit,334200
+334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,103880.0,4-digit,334200
+334290,Other Communications Equipment Manufacturing,103880.0,4-digit,334200
+334310,Audio and Video Equipment Manufacturing,96050.0,4-digit,334300
+334412,Bare Printed Circuit Board Manufacturing,100320.0,4-digit,334400
+334413,Semiconductor and Related Device Manufacturing,100320.0,4-digit,334400
+334416,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",100320.0,4-digit,334400
+334417,Electronic Connector Manufacturing,100320.0,4-digit,334400
+334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing,100320.0,4-digit,334400
+334419,Other Electronic Component Manufacturing,100320.0,4-digit,334400
+334510,Electromedical and Electrotherapeutic Apparatus Manufacturing,102650.0,4-digit,334500
+334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",102650.0,4-digit,334500
+334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",102650.0,4-digit,334500
+334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",102650.0,4-digit,334500
+334514,Totalizing Fluid Meter and Counting Device Manufacturing,102650.0,4-digit,334500
+334515,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,102650.0,4-digit,334500
+334516,Analytical Laboratory Instrument Manufacturing,102650.0,4-digit,334500
+334517,Irradiation Apparatus Manufacturing,102650.0,4-digit,334500
+334519,Other Measuring and Controlling Device Manufacturing,102650.0,4-digit,334500
+334610,Manufacturing and Reproducing Magnetic and Optical Media,100790.0,4-digit,334600
+335131,Residential Electric Lighting Fixture Manufacturing,71720.0,4-digit,335100
+335132,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",71720.0,4-digit,335100
+335139,Electric Lamp Bulb and Other Lighting Equipment Manufacturing,71720.0,4-digit,335100
+335210,Small Electrical Appliance Manufacturing,58120.0,4-digit,335200
+335220,Major Household Appliance Manufacturing,58120.0,4-digit,335200
+335311,"Power, Distribution, and Specialty Transformer Manufacturing",71800.0,4-digit,335300
+335312,Motor and Generator Manufacturing,71800.0,4-digit,335300
+335313,Switchgear and Switchboard Apparatus Manufacturing,71800.0,4-digit,335300
+335314,Relay and Industrial Control Manufacturing,71800.0,4-digit,335300
+335910,Battery Manufacturing,72940.0,4-digit,335900
+335921,Fiber Optic Cable Manufacturing,72940.0,4-digit,335900
+335929,Other Communication and Energy Wire Manufacturing,72940.0,4-digit,335900
+335931,Current-Carrying Wiring Device Manufacturing,72940.0,4-digit,335900
+335932,Noncurrent-Carrying Wiring Device Manufacturing,72940.0,4-digit,335900
+335991,Carbon and Graphite Product Manufacturing,72940.0,4-digit,335900
+335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing,72940.0,4-digit,335900
+336110,Automobile and Light Duty Motor Vehicle Manufacturing,77300.0,4-digit,336100
+336120,Heavy Duty Truck Manufacturing,77300.0,4-digit,336100
+336211,Motor Vehicle Body Manufacturing,57370.0,4-digit,336200
+336212,Truck Trailer Manufacturing,57370.0,4-digit,336200
+336213,Motor Home Manufacturing,57370.0,4-digit,336200
+336214,Travel Trailer and Camper Manufacturing,57370.0,4-digit,336200
+336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,61510.0,4-digit,336300
+336320,Motor Vehicle Electrical and Electronic Equipment Manufacturing,61510.0,4-digit,336300
+336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,61510.0,4-digit,336300
+336340,Motor Vehicle Brake System Manufacturing,61510.0,4-digit,336300
+336350,Motor Vehicle Transmission and Power Train Parts Manufacturing,61510.0,4-digit,336300
+336360,Motor Vehicle Seating and Interior Trim Manufacturing,61510.0,4-digit,336300
+336370,Motor Vehicle Metal Stamping,61510.0,4-digit,336300
+336390,Other Motor Vehicle Parts Manufacturing,61510.0,4-digit,336300
+336411,Aircraft Manufacturing,105300.0,4-digit,336400
+336412,Aircraft Engine and Engine Parts Manufacturing,105300.0,4-digit,336400
+336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing,105300.0,4-digit,336400
+336414,Guided Missile and Space Vehicle Manufacturing,105300.0,4-digit,336400
+336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing,105300.0,4-digit,336400
+336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing,105300.0,4-digit,336400
+336510,Railroad Rolling Stock Manufacturing,74190.0,4-digit,336500
+336611,Ship Building and Repairing,71950.0,4-digit,336600
+336612,Boat Building,71950.0,4-digit,336600
+336991,"Motorcycle, Bicycle, and Parts Manufacturing",63450.0,4-digit,336900
+336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing",63450.0,4-digit,336900
+336999,All Other Transportation Equipment Manufacturing,63450.0,4-digit,336900
+337110,Wood Kitchen Cabinet and Countertop Manufacturing,55570.0,3-digit,337000
+337121,Upholstered Household Furniture Manufacturing,55570.0,3-digit,337000
+337122,Nonupholstered Wood Household Furniture Manufacturing,55570.0,3-digit,337000
+337126,Household Furniture (except Wood and Upholstered) Manufacturing,55570.0,3-digit,337000
+337127,Institutional Furniture Manufacturing,55570.0,3-digit,337000
+337211,Wood Office Furniture Manufacturing,55570.0,3-digit,337000
+337212,Custom Architectural Woodwork and Millwork Manufacturing,55570.0,3-digit,337000
+337214,Office Furniture (except Wood) Manufacturing,55570.0,3-digit,337000
+337215,"Showcase, Partition, Shelving, and Locker Manufacturing",55570.0,3-digit,337000
+337910,Mattress Manufacturing,53340.0,4-digit,337900
+337920,Blind and Shade Manufacturing,53340.0,4-digit,337900
+339112,Surgical and Medical Instrument Manufacturing,76220.0,4-digit,339100
+339113,Surgical Appliance and Supplies Manufacturing,76220.0,4-digit,339100
+339114,Dental Equipment and Supplies Manufacturing,76220.0,4-digit,339100
+339115,Ophthalmic Goods Manufacturing,76220.0,4-digit,339100
+339116,Dental Laboratories,76220.0,4-digit,339100
+339910,Jewelry and Silverware Manufacturing,60340.0,5-digit,339910
+339920,Sporting and Athletic Goods Manufacturing,62610.0,4-digit,339900
+339930,"Doll, Toy, and Game Manufacturing",62610.0,4-digit,339900
+339940,Office Supplies (except Paper) Manufacturing,62610.0,4-digit,339900
+339950,Sign Manufacturing,62610.0,4-digit,339900
+339991,"Gasket, Packing, and Sealing Device Manufacturing",62610.0,4-digit,339900
+339992,Musical Instrument Manufacturing,62610.0,4-digit,339900
+339993,"Fastener, Button, Needle, and Pin Manufacturing",62610.0,4-digit,339900
+339994,"Broom, Brush, and Mop Manufacturing",62610.0,4-digit,339900
+339995,Burial Casket Manufacturing,62610.0,4-digit,339900
+339999,All Other Miscellaneous Manufacturing,62610.0,4-digit,339900
+423110,Automobile and Other Motor Vehicle Merchant Wholesalers,63730.0,4-digit,423100
+423120,Motor Vehicle Supplies and New Parts Merchant Wholesalers,63730.0,4-digit,423100
+423130,Tire and Tube Merchant Wholesalers,63730.0,4-digit,423100
+423140,Motor Vehicle Parts (Used) Merchant Wholesalers,63730.0,4-digit,423100
+423210,Furniture Merchant Wholesalers,77270.0,3-digit,423000
+423220,Home Furnishing Merchant Wholesalers,77270.0,3-digit,423000
+423310,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",77270.0,3-digit,423000
+423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers",77270.0,3-digit,423000
+423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers",77270.0,3-digit,423000
+423390,Other Construction Material Merchant Wholesalers,77270.0,3-digit,423000
+423410,Photographic Equipment and Supplies Merchant Wholesalers,98560.0,4-digit,423400
+423420,Office Equipment Merchant Wholesalers,98560.0,4-digit,423400
+423430,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,98560.0,4-digit,423400
+423440,Other Commercial Equipment Merchant Wholesalers,98560.0,4-digit,423400
+423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",98560.0,4-digit,423400
+423460,Ophthalmic Goods Merchant Wholesalers,98560.0,4-digit,423400
+423490,Other Professional Equipment and Supplies Merchant Wholesalers,98560.0,4-digit,423400
+423510,Metal Service Centers and Other Metal Merchant Wholesalers,77270.0,3-digit,423000
+423520,Coal and Other Mineral and Ore Merchant Wholesalers,77270.0,3-digit,423000
+423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",77270.0,3-digit,423000
+423620,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",77270.0,3-digit,423000
+423690,Other Electronic Parts and Equipment Merchant Wholesalers,77270.0,3-digit,423000
+423710,Hardware Merchant Wholesalers,77270.0,3-digit,423000
+423720,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,77270.0,3-digit,423000
+423730,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,77270.0,3-digit,423000
+423740,Refrigeration Equipment and Supplies Merchant Wholesalers,77270.0,3-digit,423000
+423810,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,74450.0,4-digit,423800
+423820,Farm and Garden Machinery and Equipment Merchant Wholesalers,66190.0,5-digit,423820
+423830,Industrial Machinery and Equipment Merchant Wholesalers,74450.0,4-digit,423800
+423840,Industrial Supplies Merchant Wholesalers,74450.0,4-digit,423800
+423850,Service Establishment Equipment and Supplies Merchant Wholesalers,74450.0,4-digit,423800
+423860,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,74450.0,4-digit,423800
+423910,Sporting and Recreational Goods and Supplies Merchant Wholesalers,77270.0,3-digit,423000
+423920,Toy and Hobby Goods and Supplies Merchant Wholesalers,77270.0,3-digit,423000
+423930,Recyclable Material Merchant Wholesalers,77270.0,3-digit,423000
+423940,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",77270.0,3-digit,423000
+423990,Other Miscellaneous Durable Goods Merchant Wholesalers,77270.0,3-digit,423000
+424110,Printing and Writing Paper Merchant Wholesalers,72830.0,3-digit,424000
+424120,Stationery and Office Supplies Merchant Wholesalers,72830.0,3-digit,424000
+424130,Industrial and Personal Service Paper Merchant Wholesalers,72830.0,3-digit,424000
+424210,Drugs and Druggists' Sundries Merchant Wholesalers,72830.0,3-digit,424000
+424310,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",77390.0,4-digit,424300
+424340,Footwear Merchant Wholesalers,77390.0,4-digit,424300
+424350,Clothing and Clothing Accessories Merchant Wholesalers,77390.0,4-digit,424300
+424410,General Line Grocery Merchant Wholesalers,72830.0,3-digit,424000
+424420,Packaged Frozen Food Merchant Wholesalers,72830.0,3-digit,424000
+424430,Dairy Product (except Dried or Canned) Merchant Wholesalers,72830.0,3-digit,424000
+424440,Poultry and Poultry Product Merchant Wholesalers,72830.0,3-digit,424000
+424450,Confectionery Merchant Wholesalers,72830.0,3-digit,424000
+424460,Fish and Seafood Merchant Wholesalers,72830.0,3-digit,424000
+424470,Meat and Meat Product Merchant Wholesalers,72830.0,3-digit,424000
+424480,Fresh Fruit and Vegetable Merchant Wholesalers,72830.0,3-digit,424000
+424490,Other Grocery and Related Products Merchant Wholesalers,72830.0,3-digit,424000
+424510,Grain and Field Bean Merchant Wholesalers,55610.0,4-digit,424500
+424520,Livestock Merchant Wholesalers,55610.0,4-digit,424500
+424590,Other Farm Product Raw Material Merchant Wholesalers,55610.0,4-digit,424500
+424610,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,72830.0,3-digit,424000
+424690,Other Chemical and Allied Products Merchant Wholesalers,72830.0,3-digit,424000
+424710,Petroleum Bulk Stations and Terminals,72830.0,3-digit,424000
+424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),72830.0,3-digit,424000
+424810,Beer and Ale Merchant Wholesalers,72830.0,3-digit,424000
+424820,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,72830.0,3-digit,424000
+424910,Farm Supplies Merchant Wholesalers,72830.0,3-digit,424000
+424920,"Book, Periodical, and Newspaper Merchant Wholesalers",72830.0,3-digit,424000
+424930,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",72830.0,3-digit,424000
+424940,Tobacco Product and Electronic Cigarette Merchant Wholesalers,72830.0,3-digit,424000
+424950,"Paint, Varnish, and Supplies Merchant Wholesalers",72830.0,3-digit,424000
+424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers,72830.0,3-digit,424000
+425120,Wholesale Trade Agents and Brokers,90230.0,4-digit,425100
+441110,New Car Dealers,64140.0,4-digit,441100
+441120,Used Car Dealers,64140.0,4-digit,441100
+441210,Recreational Vehicle Dealers,57850.0,4-digit,441200
+441222,Boat Dealers,57850.0,4-digit,441200
+441227,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",57850.0,4-digit,441200
+441330,Automotive Parts and Accessories Retailers,43860.0,4-digit,441300
+441340,Tire Dealers,43860.0,4-digit,441300
+444110,Home Centers,46450.0,4-digit,444100
+444120,Paint and Wallpaper Retailers,46450.0,4-digit,444100
+444140,Hardware Retailers,46450.0,4-digit,444100
+444180,Other Building Material Dealers,46450.0,4-digit,444100
+444230,Outdoor Power Equipment Retailers,43080.0,4-digit,444200
+444240,"Nursery, Garden Center, and Farm Supply Retailers",43080.0,4-digit,444200
+445110,Supermarkets and Other Grocery Retailers (except Convenience Retailers),39470.0,3-digit,445000
+445131,Convenience Retailers,39470.0,3-digit,445000
+445132,Vending Machine Operators,39470.0,3-digit,445000
+445230,Fruit and Vegetable Retailers,39470.0,3-digit,445000
+445240,Meat Retailers,39470.0,3-digit,445000
+445250,Fish and Seafood Retailers,39470.0,3-digit,445000
+445291,Baked Goods Retailers,39470.0,3-digit,445000
+445292,Confectionery and Nut Retailers,39470.0,3-digit,445000
+445298,All Other Specialty Food Retailers,39470.0,3-digit,445000
+445320,"Beer, Wine, and Liquor Retailers",39620.0,4-digit,445300
+449110,Furniture Retailers,50300.0,4-digit,449100
+449121,Floor Covering Retailers,50300.0,4-digit,449100
+449122,Window Treatment Retailers,50300.0,4-digit,449100
+449129,All Other Home Furnishings Retailers,50300.0,4-digit,449100
+449210,Electronics and Appliance Retailers,50630.0,4-digit,449200
+455110,Department Stores,40230.0,3-digit,455000
+455211,Warehouse Clubs and Supercenters,40230.0,3-digit,455000
+455219,All Other General Merchandise Retailers,40230.0,3-digit,455000
+456110,Pharmacies and Drug Retailers,61720.0,5-digit,456110
+456120,"Cosmetics, Beauty Supplies, and Perfume Retailers",56830.0,4-digit,456100
+456130,Optical Goods Retailers,56830.0,4-digit,456100
+456191,Food (Health) Supplement Retailers,56830.0,4-digit,456100
+456199,All Other Health and Personal Care Retailers,56830.0,4-digit,456100
+457110,Gasoline Stations with Convenience Stores,35180.0,4-digit,457100
+457120,Other Gasoline Stations,35180.0,4-digit,457100
+457210,Fuel Dealers,63250.0,4-digit,457200
+458110,Clothing and Clothing Accessories Retailers,40670.0,4-digit,458100
+458210,Shoe Retailers,38010.0,4-digit,458200
+458310,Jewelry Retailers,54750.0,4-digit,458300
+458320,Luggage and Leather Goods Retailers,54750.0,4-digit,458300
+459110,Sporting Goods Retailers,42240.0,5-digit,459110
+459120,"Hobby, Toy, and Game Retailers",41680.0,4-digit,459100
+459130,"Sewing, Needlework, and Piece Goods Retailers",41680.0,4-digit,459100
+459140,Musical Instrument and Supplies Retailers,41680.0,4-digit,459100
+459210,Book Retailers and News Dealers,39540.0,4-digit,459200
+459310,Florists,40310.0,4-digit,459300
+459410,Office Supplies and Stationery Retailers,43110.0,3-digit,459000
+459420,"Gift, Novelty, and Souvenir Retailers",43110.0,3-digit,459000
+459510,Used Merchandise Retailers,43110.0,3-digit,459000
+459910,Pet and Pet Supplies Retailers,48380.0,4-digit,459900
+459920,Art Dealers,48380.0,4-digit,459900
+459930,Manufactured (Mobile) Home Dealers,48380.0,4-digit,459900
+459991,"Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers",48380.0,4-digit,459900
+459999,All Other Miscellaneous Retailers,48380.0,4-digit,459900
+481111,Scheduled Passenger Air Transportation,110350.0,4-digit,481100
+481112,Scheduled Freight Air Transportation,110350.0,4-digit,481100
+481211,Nonscheduled Chartered Passenger Air Transportation,113680.0,4-digit,481200
+481212,Nonscheduled Chartered Freight Air Transportation,113680.0,4-digit,481200
+481219,Other Nonscheduled Air Transportation,113680.0,4-digit,481200
+482111,Line-Haul Railroads,85890.0,4-digit,482100
+482112,Short Line Railroads,85890.0,4-digit,482100
+483111,Deep Sea Freight Transportation,85120.0,4-digit,483100
+483112,Deep Sea Passenger Transportation,85120.0,4-digit,483100
+483113,Coastal and Great Lakes Freight Transportation,85120.0,4-digit,483100
+483114,Coastal and Great Lakes Passenger Transportation,85120.0,4-digit,483100
+483211,Inland Water Freight Transportation,87340.0,4-digit,483200
+483212,Inland Water Passenger Transportation,87340.0,4-digit,483200
+484110,"General Freight Trucking, Local",61760.0,3-digit,484000
+484121,"General Freight Trucking, Long-Distance, Truckload",61760.0,3-digit,484000
+484122,"General Freight Trucking, Long-Distance, Less Than Truckload",61760.0,3-digit,484000
+484210,Used Household and Office Goods Moving,61760.0,3-digit,484000
+484220,"Specialized Freight (except Used Goods) Trucking, Local",61760.0,3-digit,484000
+484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance",61760.0,3-digit,484000
+485111,Mixed Mode Transit Systems,59940.0,4-digit,485100
+485112,Commuter Rail Systems,59940.0,4-digit,485100
+485113,Bus and Other Motor Vehicle Transit Systems,59940.0,4-digit,485100
+485119,Other Urban Transit Systems,59940.0,4-digit,485100
+485210,Interurban and Rural Bus Transportation,51990.0,4-digit,485200
+485310,Taxi and Ridesharing Services,78720.0,4-digit,485300
+485320,Limousine Service,78720.0,4-digit,485300
+485410,School and Employee Bus Transportation,51020.0,4-digit,485400
+485510,Charter Bus Industry,54300.0,4-digit,485500
+485991,Special Needs Transportation,46130.0,4-digit,485900
+485999,All Other Transit and Ground Passenger Transportation,46130.0,4-digit,485900
+486110,Pipeline Transportation of Crude Oil,112050.0,4-digit,486100
+486210,Pipeline Transportation of Natural Gas,104370.0,4-digit,486200
+486910,Pipeline Transportation of Refined Petroleum Products,97130.0,4-digit,486900
+486990,All Other Pipeline Transportation,97130.0,4-digit,486900
+487110,"Scenic and Sightseeing Transportation, Land",50680.0,4-digit,487100
+487210,"Scenic and Sightseeing Transportation, Water",57460.0,4-digit,487200
+487990,"Scenic and Sightseeing Transportation, Other",69440.0,4-digit,487900
+488111,Air Traffic Control,62610.0,4-digit,488100
+488119,Other Airport Operations,62610.0,4-digit,488100
+488190,Other Support Activities for Air Transportation,62610.0,4-digit,488100
+488210,Support Activities for Rail Transportation,62250.0,4-digit,488200
+488310,Port and Harbor Operations,86940.0,4-digit,488300
+488320,Marine Cargo Handling,86940.0,4-digit,488300
+488330,Navigational Services to Shipping,86940.0,4-digit,488300
+488390,Other Support Activities for Water Transportation,86940.0,4-digit,488300
+488410,Motor Vehicle Towing,53750.0,4-digit,488400
+488490,Other Support Activities for Road Transportation,53750.0,4-digit,488400
+488510,Freight Transportation Arrangement,70610.0,4-digit,488500
+488991,Packing and Crating,55400.0,4-digit,488900
+488999,All Other Support Activities for Transportation,55400.0,4-digit,488900
+491110,Postal Service,65730.0,4-digit,491100
+492110,Couriers and Express Delivery Services,59390.0,4-digit,492100
+492210,Local Messengers and Local Delivery,47720.0,4-digit,492200
+493110,General Warehousing and Storage,53680.0,4-digit,493100
+493120,Refrigerated Warehousing and Storage,53680.0,4-digit,493100
+493130,Farm Product Warehousing and Storage,53680.0,4-digit,493100
+493190,Other Warehousing and Storage,53680.0,4-digit,493100
+512110,Motion Picture and Video Production,91520.0,4-digit,512100
+512120,Motion Picture and Video Distribution,91520.0,4-digit,512100
+512131,Motion Picture Theaters (except Drive-Ins),34790.0,5-digit,512130
+512132,Drive-In Motion Picture Theaters,34790.0,5-digit,512130
+512191,Teleproduction and Other Postproduction Services,91520.0,4-digit,512100
+512199,Other Motion Picture and Video Industries,91520.0,4-digit,512100
+512230,Music Publishers,97560.0,4-digit,512200
+512240,Sound Recording Studios,97560.0,4-digit,512200
+512250,Record Production and Distribution,97560.0,4-digit,512200
+512290,Other Sound Recording Industries,97560.0,4-digit,512200
+513110,Newspaper Publishers,69500.0,5-digit,513110
+513120,Periodical Publishers,88710.0,4-digit,513100
+513130,Book Publishers,88710.0,4-digit,513100
+513140,Directory and Mailing List Publishers,88710.0,4-digit,513100
+513191,Greeting Card Publishers,88710.0,4-digit,513100
+513199,All Other Publishers,88710.0,4-digit,513100
+513210,Software Publishers,142150.0,4-digit,513200
+516110,Radio Broadcasting Stations,70010.0,5-digit,516110
+516120,Television Broadcasting Stations,86090.0,5-digit,516120
+516210,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",138510.0,4-digit,516200
+517111,Wired Telecommunications Carriers,89330.0,3-digit,517000
+517112,Wireless Telecommunications Carriers (except Satellite),89330.0,3-digit,517000
+517121,Telecommunications Resellers,89330.0,3-digit,517000
+517122,Agents for Wireless Telecommunications Services,89330.0,3-digit,517000
+517410,Satellite Telecommunications,89330.0,3-digit,517000
+517810,All Other Telecommunications,89330.0,3-digit,517000
+518210,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",123660.0,4-digit,518200
+519210,Libraries and Archives,156350.0,4-digit,519200
+519290,Web Search Portals and All Other Information Services,156350.0,4-digit,519200
+521110,Monetary Authorities-Central Bank,144520.0,4-digit,521100
+522110,Commercial Banking,89460.0,3-digit,522000
+522130,Credit Unions,89460.0,3-digit,522000
+522180,Savings Institutions and Other Depository Credit Intermediation,89460.0,3-digit,522000
+522210,Credit Card Issuing,91520.0,4-digit,522200
+522220,Sales Financing,91520.0,4-digit,522200
+522291,Consumer Lending,86320.0,5-digit,522290
+522292,Real Estate Credit,86320.0,5-digit,522290
+522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation",86320.0,5-digit,522290
+522310,Mortgage and Nonmortgage Loan Brokers,89460.0,3-digit,522000
+522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",89460.0,3-digit,522000
+522390,Other Activities Related to Credit Intermediation,89460.0,3-digit,522000
+523150,Investment Banking and Securities Intermediation,148700.0,3-digit,523000
+523160,Commodity Contracts Intermediation,148700.0,3-digit,523000
+523210,Securities and Commodity Exchanges,148700.0,3-digit,523000
+523910,Miscellaneous Intermediation,148700.0,3-digit,523000
+523940,Portfolio Management and Investment Advice,148700.0,3-digit,523000
+523991,"Trust, Fiduciary, and Custody Activities",148700.0,3-digit,523000
+523999,Miscellaneous Financial Investment Activities,148700.0,3-digit,523000
+524113,Direct Life Insurance Carriers,97870.0,4-digit,524100
+524114,Direct Health and Medical Insurance Carriers,93210.0,6-digit,524114
+524126,Direct Property and Casualty Insurance Carriers,97550.0,5-digit,524120
+524127,Direct Title Insurance Carriers,97550.0,5-digit,524120
+524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers",97550.0,5-digit,524120
+524130,Reinsurance Carriers,97870.0,4-digit,524100
+524210,Insurance Agencies and Brokerages,84590.0,5-digit,524210
+524291,Claims Adjusting,86750.0,5-digit,524290
+524292,Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds,86750.0,5-digit,524290
+524298,All Other Insurance Related Activities,86750.0,5-digit,524290
+525110,Pension Funds,98050.0,4-digit,525100
+525120,Health and Welfare Funds,98050.0,4-digit,525100
+525190,Other Insurance Funds,98050.0,4-digit,525100
+525910,Open-End Investment Funds,130780.0,4-digit,525900
+525920,"Trusts, Estates, and Agency Accounts",130780.0,4-digit,525900
+525990,Other Financial Vehicles,130780.0,4-digit,525900
+531110,Lessors of Residential Buildings and Dwellings,68380.0,3-digit,531000
+531120,Lessors of Nonresidential Buildings (except Miniwarehouses),68380.0,3-digit,531000
+531130,Lessors of Miniwarehouses and Self-Storage Units,68380.0,3-digit,531000
+531190,Lessors of Other Real Estate Property,68380.0,3-digit,531000
+531210,Offices of Real Estate Agents and Brokers,68380.0,3-digit,531000
+531311,Residential Property Managers,68380.0,3-digit,531000
+531312,Nonresidential Property Managers,68380.0,3-digit,531000
+531320,Offices of Real Estate Appraisers,68380.0,3-digit,531000
+531390,Other Activities Related to Real Estate,68380.0,3-digit,531000
+532111,Passenger Car Rental,51040.0,4-digit,532100
+532112,Passenger Car Leasing,51040.0,4-digit,532100
+532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",51040.0,4-digit,532100
+532210,Consumer Electronics and Appliances Rental,58220.0,3-digit,532000
+532281,Formal Wear and Costume Rental,58220.0,3-digit,532000
+532282,Video Tape and Disc Rental,58220.0,3-digit,532000
+532283,Home Health Equipment Rental,58220.0,3-digit,532000
+532284,Recreational Goods Rental,58220.0,3-digit,532000
+532289,All Other Consumer Goods Rental,58220.0,3-digit,532000
+532310,General Rental Centers,58220.0,3-digit,532000
+532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",58220.0,3-digit,532000
+532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",58220.0,3-digit,532000
+532420,Office Machinery and Equipment Rental and Leasing,58220.0,3-digit,532000
+532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,58220.0,3-digit,532000
+533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),105740.0,4-digit,533100
+541110,Offices of Lawyers,115940.0,4-digit,541100
+541120,Offices of Notaries,115940.0,4-digit,541100
+541191,Title Abstract and Settlement Offices,115940.0,4-digit,541100
+541199,All Other Legal Services,115940.0,4-digit,541100
+541211,Offices of Certified Public Accountants,93230.0,4-digit,541200
+541213,Tax Preparation Services,93230.0,4-digit,541200
+541214,Payroll Services,93230.0,4-digit,541200
+541219,Other Accounting Services,93230.0,4-digit,541200
+541310,Architectural Services,102150.0,4-digit,541300
+541320,Landscape Architectural Services,102150.0,4-digit,541300
+541330,Engineering Services,109400.0,5-digit,541330
+541340,Drafting Services,102150.0,4-digit,541300
+541350,Building Inspection Services,102150.0,4-digit,541300
+541360,Geophysical Surveying and Mapping Services,102150.0,4-digit,541300
+541370,Surveying and Mapping (except Geophysical) Services,102150.0,4-digit,541300
+541380,Testing Laboratories and Services,79710.0,5-digit,541380
+541410,Interior Design Services,82650.0,4-digit,541400
+541420,Industrial Design Services,82650.0,4-digit,541400
+541430,Graphic Design Services,82650.0,4-digit,541400
+541490,Other Specialized Design Services,82650.0,4-digit,541400
+541511,Custom Computer Programming Services,124640.0,4-digit,541500
+541512,Computer Systems Design Services,124640.0,4-digit,541500
+541513,Computer Facilities Management Services,124640.0,4-digit,541500
+541519,Other Computer Related Services,124640.0,4-digit,541500
+541611,Administrative Management and General Management Consulting Services,105410.0,4-digit,541600
+541612,Human Resources Consulting Services,105410.0,4-digit,541600
+541613,Marketing Consulting Services,105410.0,4-digit,541600
+541614,"Process, Physical Distribution, and Logistics Consulting Services",105410.0,4-digit,541600
+541618,Other Management Consulting Services,105410.0,4-digit,541600
+541620,Environmental Consulting Services,105410.0,4-digit,541600
+541690,Other Scientific and Technical Consulting Services,105410.0,4-digit,541600
+541713,Research and Development in Nanotechnology,139740.0,5-digit,541710
+541714,Research and Development in Biotechnology (except Nanobiotechnology),139740.0,5-digit,541710
+541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",139740.0,5-digit,541710
+541720,Research and Development in the Social Sciences and Humanities,99080.0,5-digit,541720
+541810,Advertising Agencies,92910.0,4-digit,541800
+541820,Public Relations Agencies,92910.0,4-digit,541800
+541830,Media Buying Agencies,92910.0,4-digit,541800
+541840,Media Representatives,92910.0,4-digit,541800
+541850,Indoor and Outdoor Display Advertising,92910.0,4-digit,541800
+541860,Direct Mail Advertising,92910.0,4-digit,541800
+541870,Advertising Material Distribution Services,92910.0,4-digit,541800
+541890,Other Services Related to Advertising,92910.0,4-digit,541800
+541910,Marketing Research and Public Opinion Polling,75850.0,4-digit,541900
+541921,"Photography Studios, Portrait",53860.0,5-digit,541920
+541922,Commercial Photography,53860.0,5-digit,541920
+541930,Translation and Interpretation Services,75850.0,4-digit,541900
+541940,Veterinary Services,60890.0,5-digit,541940
+541990,"All Other Professional, Scientific, and Technical Services",75850.0,4-digit,541900
+551111,Offices of Bank Holding Companies,115590.0,4-digit,551100
+551112,Offices of Other Holding Companies,115590.0,4-digit,551100
+551114,"Corporate, Subsidiary, and Regional Managing Offices",115590.0,4-digit,551100
+561110,Office Administrative Services,92260.0,4-digit,561100
+561210,Facilities Support Services,58130.0,4-digit,561200
+561311,Employment Placement Agencies,58460.0,4-digit,561300
+561312,Executive Search Services,58460.0,4-digit,561300
+561320,Temporary Help Services,54310.0,5-digit,561320
+561330,Professional Employer Organizations,58460.0,4-digit,561300
+561410,Document Preparation Services,54980.0,4-digit,561400
+561421,Telephone Answering Services,54980.0,4-digit,561400
+561422,Telemarketing Bureaus and Other Contact Centers,54980.0,4-digit,561400
+561431,Private Mail Centers,54980.0,4-digit,561400
+561439,Other Business Service Centers (including Copy Shops),54980.0,4-digit,561400
+561440,Collection Agencies,54980.0,4-digit,561400
+561450,Credit Bureaus,54980.0,4-digit,561400
+561491,Repossession Services,54980.0,4-digit,561400
+561492,Court Reporting and Stenotype Services,54980.0,4-digit,561400
+561499,All Other Business Support Services,54980.0,4-digit,561400
+561510,Travel Agencies,73680.0,4-digit,561500
+561520,Tour Operators,73680.0,4-digit,561500
+561591,Convention and Visitors Bureaus,73680.0,4-digit,561500
+561599,All Other Travel Arrangement and Reservation Services,73680.0,4-digit,561500
+561611,Investigation and Personal Background Check Services,44130.0,5-digit,561610
+561612,Security Guards and Patrol Services,44130.0,5-digit,561610
+561613,Armored Car Services,44130.0,5-digit,561610
+561621,Security Systems Services (except Locksmiths),68040.0,5-digit,561620
+561622,Locksmiths,68040.0,5-digit,561620
+561710,Exterminating and Pest Control Services,51220.0,5-digit,561710
+561720,Janitorial Services,45680.0,4-digit,561700
+561730,Landscaping Services,50290.0,5-digit,561730
+561740,Carpet and Upholstery Cleaning Services,45680.0,4-digit,561700
+561790,Other Services to Buildings and Dwellings,45680.0,4-digit,561700
+561910,Packaging and Labeling Services,57930.0,4-digit,561900
+561920,Convention and Trade Show Organizers,57930.0,4-digit,561900
+561990,All Other Support Services,57930.0,4-digit,561900
+562111,Solid Waste Collection,57640.0,4-digit,562100
+562112,Hazardous Waste Collection,57640.0,4-digit,562100
+562119,Other Waste Collection,57640.0,4-digit,562100
+562211,Hazardous Waste Treatment and Disposal,69700.0,4-digit,562200
+562212,Solid Waste Landfill,69700.0,4-digit,562200
+562213,Solid Waste Combustors and Incinerators,69700.0,4-digit,562200
+562219,Other Nonhazardous Waste Treatment and Disposal,69700.0,4-digit,562200
+562910,Remediation Services,65420.0,4-digit,562900
+562920,Materials Recovery Facilities,65420.0,4-digit,562900
+562991,Septic Tank and Related Services,65420.0,4-digit,562900
+562998,All Other Miscellaneous Waste Management Services,65420.0,4-digit,562900
+611110,Elementary and Secondary Schools,64300.0,4-digit,611100
+611210,Junior Colleges,76230.0,4-digit,611200
+611310,"Colleges, Universities, and Professional Schools",85740.0,4-digit,611300
+611410,Business and Secretarial Schools,86800.0,4-digit,611400
+611420,Computer Training,86800.0,4-digit,611400
+611430,Professional and Management Development Training,86800.0,4-digit,611400
+611511,Cosmetology and Barber Schools,72850.0,4-digit,611500
+611512,Flight Training,72850.0,4-digit,611500
+611513,Apprenticeship Training,72850.0,4-digit,611500
+611519,Other Technical and Trade Schools,72850.0,4-digit,611500
+611610,Fine Arts Schools,53530.0,4-digit,611600
+611620,Sports and Recreation Instruction,53530.0,4-digit,611600
+611630,Language Schools,53530.0,4-digit,611600
+611691,Exam Preparation and Tutoring,53530.0,4-digit,611600
+611692,Automobile Driving Schools,53530.0,4-digit,611600
+611699,All Other Miscellaneous Schools and Instruction,53530.0,4-digit,611600
+611710,Educational Support Services,75300.0,4-digit,611700
+621111,Offices of Physicians (except Mental Health Specialists),106660.0,4-digit,621100
+621112,"Offices of Physicians, Mental Health Specialists",106660.0,4-digit,621100
+621210,Offices of Dentists,79690.0,4-digit,621200
+621310,Offices of Chiropractors,57710.0,5-digit,621310
+621320,Offices of Optometrists,61480.0,5-digit,621320
+621330,Offices of Mental Health Practitioners (except Physicians),74950.0,5-digit,621330
+621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",75210.0,5-digit,621340
+621391,Offices of Podiatrists,75260.0,5-digit,621390
+621399,Offices of All Other Miscellaneous Health Practitioners,75260.0,5-digit,621390
+621410,Family Planning Centers,87320.0,4-digit,621400
+621420,Outpatient Mental Health and Substance Abuse Centers,67240.0,5-digit,621420
+621491,HMO Medical Centers,87320.0,4-digit,621400
+621492,Kidney Dialysis Centers,87320.0,4-digit,621400
+621493,Freestanding Ambulatory Surgical and Emergency Centers,87320.0,4-digit,621400
+621498,All Other Outpatient Care Centers,87320.0,4-digit,621400
+621511,Medical Laboratories,78200.0,4-digit,621500
+621512,Diagnostic Imaging Centers,78200.0,4-digit,621500
+621610,Home Health Care Services,52560.0,4-digit,621600
+621910,Ambulance Services,54710.0,5-digit,621910
+621991,Blood and Organ Banks,73480.0,5-digit,621990
+621999,All Other Miscellaneous Ambulatory Health Care Services,73480.0,5-digit,621990
+622110,General Medical and Surgical Hospitals,89620.0,4-digit,622100
+622210,Psychiatric and Substance Abuse Hospitals,72860.0,4-digit,622200
+622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,93550.0,4-digit,622300
+623110,Nursing Care Facilities (Skilled Nursing Facilities),54790.0,4-digit,623100
+623210,Residential Intellectual and Developmental Disability Facilities,44070.0,5-digit,623210
+623220,Residential Mental Health and Substance Abuse Facilities,56060.0,5-digit,623220
+623311,Continuing Care Retirement Communities,46250.0,4-digit,623300
+623312,Assisted Living Facilities for the Elderly,46250.0,4-digit,623300
+623990,Other Residential Care Facilities,49570.0,4-digit,623900
+624110,Child and Youth Services,43400.0,4-digit,624100
+624120,Services for the Elderly and Persons with Disabilities,39030.0,5-digit,624120
+624190,Other Individual and Family Services,43400.0,4-digit,624100
+624210,Community Food Services,57480.0,4-digit,624200
+624221,Temporary Shelters,57480.0,4-digit,624200
+624229,Other Community Housing Services,57480.0,4-digit,624200
+624230,Emergency and Other Relief Services,57480.0,4-digit,624200
+624310,Vocational Rehabilitation Services,46100.0,4-digit,624300
+624410,Child Care Services,41140.0,4-digit,624400
+711110,Theater Companies and Dinner Theaters,66360.0,5-digit,711110
+711120,Dance Companies,76250.0,4-digit,711100
+711130,Musical Groups and Artists,76250.0,4-digit,711100
+711190,Other Performing Arts Companies,76250.0,4-digit,711100
+711211,Sports Teams and Clubs,79650.0,4-digit,711200
+711212,Racetracks,79650.0,4-digit,711200
+711219,Other Spectator Sports,79650.0,4-digit,711200
+711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",59910.0,4-digit,711300
+711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",59910.0,4-digit,711300
+711410,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",115080.0,4-digit,711400
+711510,"Independent Artists, Writers, and Performers",78370.0,4-digit,711500
+712110,Museums,55990.0,4-digit,712100
+712120,Historical Sites,55990.0,4-digit,712100
+712130,Zoos and Botanical Gardens,55990.0,4-digit,712100
+712190,Nature Parks and Other Similar Institutions,55990.0,4-digit,712100
+713110,Amusement and Theme Parks,41730.0,4-digit,713100
+713120,Amusement Arcades,41730.0,4-digit,713100
+713210,Casinos (except Casino Hotels),49670.0,4-digit,713200
+713290,Other Gambling Industries,49670.0,4-digit,713200
+713910,Golf Courses and Country Clubs,44960.0,4-digit,713900
+713920,Skiing Facilities,44960.0,4-digit,713900
+713930,Marinas,44960.0,4-digit,713900
+713940,Fitness and Recreational Sports Centers,45570.0,5-digit,713940
+713950,Bowling Centers,44960.0,4-digit,713900
+713990,All Other Amusement and Recreation Industries,44960.0,4-digit,713900
+721110,Hotels (except Casino Hotels) and Motels,45800.0,4-digit,721100
+721120,Casino Hotels,48350.0,5-digit,721120
+721191,Bed-and-Breakfast Inns,45800.0,4-digit,721100
+721199,All Other Traveler Accommodation,45800.0,4-digit,721100
+721211,RV (Recreational Vehicle) Parks and Campgrounds,45520.0,4-digit,721200
+721214,Recreational and Vacation Camps (except Campgrounds),45520.0,4-digit,721200
+721310,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",41800.0,4-digit,721300
+722310,Food Service Contractors,44110.0,4-digit,722300
+722320,Caterers,44110.0,4-digit,722300
+722330,Mobile Food Services,44110.0,4-digit,722300
+722410,Drinking Places (Alcoholic Beverages),40650.0,4-digit,722400
+722511,Full-Service Restaurants,40460.0,6-digit,722511
+722513,Limited-Service Restaurants,37410.0,4-digit,722500
+722514,"Cafeterias, Grill Buffets, and Buffets",37410.0,4-digit,722500
+722515,Snack and Nonalcoholic Beverage Bars,37410.0,4-digit,722500
+811111,General Automotive Repair,57620.0,5-digit,811110
+811114,Specialized Automotive Repair,57620.0,5-digit,811110
+811121,"Automotive Body, Paint, and Interior Repair and Maintenance",59890.0,5-digit,811120
+811122,Automotive Glass Replacement Shops,59890.0,5-digit,811120
+811191,Automotive Oil Change and Lubrication Shops,39430.0,5-digit,811190
+811192,Car Washes,39430.0,5-digit,811190
+811198,All Other Automotive Repair and Maintenance,39430.0,5-digit,811190
+811210,Electronic and Precision Equipment Repair and Maintenance,66980.0,4-digit,811200
+811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,69520.0,4-digit,811300
+811411,Home and Garden Equipment Repair and Maintenance,54320.0,4-digit,811400
+811412,Appliance Repair and Maintenance,54320.0,4-digit,811400
+811420,Reupholstery and Furniture Repair,54320.0,4-digit,811400
+811430,Footwear and Leather Goods Repair,54320.0,4-digit,811400
+811490,Other Personal and Household Goods Repair and Maintenance,54320.0,4-digit,811400
+812111,Barber Shops,45190.0,4-digit,812100
+812112,Beauty Salons,45190.0,4-digit,812100
+812113,Nail Salons,45190.0,4-digit,812100
+812191,Diet and Weight Reducing Centers,45190.0,4-digit,812100
+812199,Other Personal Care Services,45190.0,4-digit,812100
+812210,Funeral Homes and Funeral Services,52450.0,4-digit,812200
+812220,Cemeteries and Crematories,52450.0,4-digit,812200
+812310,Coin-Operated Laundries and Drycleaners,42830.0,4-digit,812300
+812320,Drycleaning and Laundry Services (except Coin-Operated),42830.0,4-digit,812300
+812331,Linen Supply,42830.0,4-digit,812300
+812332,Industrial Launderers,42830.0,4-digit,812300
+812910,Pet Care (except Veterinary) Services,43940.0,4-digit,812900
+812921,Photofinishing Laboratories (except One-Hour),43940.0,4-digit,812900
+812922,One-Hour Photofinishing,43940.0,4-digit,812900
+812930,Parking Lots and Garages,43940.0,4-digit,812900
+812990,All Other Personal Services,43940.0,4-digit,812900
+813110,Religious Organizations,60540.0,4-digit,813100
+813211,Grantmaking Foundations,94550.0,4-digit,813200
+813212,Voluntary Health Organizations,94550.0,4-digit,813200
+813219,Other Grantmaking and Giving Services,94550.0,4-digit,813200
+813311,Human Rights Organizations,72290.0,4-digit,813300
+813312,"Environment, Conservation and Wildlife Organizations",72290.0,4-digit,813300
+813319,Other Social Advocacy Organizations,72290.0,4-digit,813300
+813410,Civic and Social Organizations,45880.0,4-digit,813400
+813910,Business Associations,87770.0,4-digit,813900
+813920,Professional Organizations,87770.0,4-digit,813900
+813930,Labor Unions and Similar Labor Organizations,93850.0,5-digit,813930
+813940,Political Organizations,87770.0,4-digit,813900
+813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",87770.0,4-digit,813900
+814110,Private Households,,,

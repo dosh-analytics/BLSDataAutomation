@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+oews_wages.csv
+oews_industry_wages.csv
+oesm*in*/
+.DS_Store
+~$*

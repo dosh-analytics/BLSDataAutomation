@@ -1,0 +1,287 @@
+code,title,wage
+113300,Logging,56690.0
+115100,Support Activities for Crop Production,42750.0
+115200,Support Activities for Animal Production,48210.0
+211100,Oil and Gas Extraction,122890.0
+212100,Coal Mining,84180.0
+212200,Metal Ore Mining,82200.0
+212300,Nonmetallic Mineral Mining and Quarrying,66090.0
+213100,Support Activities for Mining,71380.0
+221100,"Electric Power Generation, Transmission and Distribution",107870.0
+221111,Hydroelectric Power Generation,112860.0
+221112,Fossil Fuel Electric Power Generation,114250.0
+221113,Nuclear Electric Power Generation,121620.0
+221114,Solar Electric Power Generation,99110.0
+221115,Wind Electric Power Generation,99590.0
+221116,Geothermal Electric Power Generation,99940.0
+221117,Biomass Electric Power Generation,96180.0
+221118,Other Electric Power Generation,116260.0
+221200,Natural Gas Distribution,107660.0
+221300,"Water, Sewage and Other Systems",70940.0
+236100,Residential Building Construction,70280.0
+236200,Nonresidential Building Construction,87610.0
+237100,Utility System Construction,74380.0
+237130,Power and Communication Line and Related Structures Construction,77370.0
+237200,Land Subdivision,93480.0
+237300,"Highway, Street, and Bridge Construction",75590.0
+237900,Other Heavy and Civil Engineering Construction,75150.0
+238100,"Foundation, Structure, and Building Exterior Contractors",65950.0
+238110,Poured Concrete Foundation and Structure Contractors,64880.0
+238140,Masonry Contractors,64860.0
+238160,Roofing Contractors,65160.0
+238200,Building Equipment Contractors,72980.0
+238210,Electrical Contractors and Other Wiring Installation Contractors,74390.0
+238220,"Plumbing, Heating, and Air-Conditioning Contractors",71020.0
+238290,Other Building Equipment Contractors,79210.0
+238300,Building Finishing Contractors,64210.0
+238310,Drywall and Insulation Contractors,68160.0
+238320,Painting and Wall Covering Contractors,59480.0
+238900,Other Specialty Trade Contractors,65300.0
+311100,Animal Food Manufacturing,60880.0
+311200,Grain and Oilseed Milling,69250.0
+311300,Sugar and Confectionery Product Manufacturing,55310.0
+311400,Fruit and Vegetable Preserving and Specialty Food Manufacturing,55250.0
+311500,Dairy Product Manufacturing,59820.0
+311600,Animal Slaughtering and Processing,47380.0
+311700,Seafood Product Preparation and Packaging,49750.0
+311800,Bakeries and Tortilla Manufacturing,47050.0
+311900,Other Food Manufacturing,57570.0
+312100,Beverage Manufacturing,57820.0
+312200,Tobacco Manufacturing,72750.0
+313100,"Fiber, Yarn, and Thread Mills",45180.0
+313200,Fabric Mills,53480.0
+313300,Textile and Fabric Finishing and Fabric Coating Mills,57450.0
+314100,Textile Furnishings Mills,48340.0
+314900,Other Textile Product Mills,49820.0
+315100,Apparel Knitting Mills,42110.0
+315200,Cut and Sew Apparel Manufacturing,57100.0
+315900,Apparel Accessories and Other Apparel Manufacturing,49110.0
+316100,Leather and Hide Tanning and Finishing,51140.0
+316200,Footwear Manufacturing,45820.0
+316900,Other Leather and Allied Product Manufacturing,50680.0
+321100,Sawmills and Wood Preservation,52520.0
+321200,"Veneer, Plywood, and Engineered Wood Product Manufacturing",54340.0
+321900,Other Wood Product Manufacturing,51630.0
+322100,"Pulp, Paper, and Paperboard Mills",80500.0
+322200,Converted Paper Product Manufacturing,63060.0
+323100,Printing and Related Support Activities,55810.0
+324100,Petroleum and Coal Products Manufacturing,98280.0
+325400,Pharmaceutical and Medicine Manufacturing,91390.0
+326100,Plastics Product Manufacturing,58470.0
+326200,Rubber Product Manufacturing,62360.0
+331100,Iron and Steel Mills and Ferroalloy Manufacturing,68290.0
+331200,Steel Product Manufacturing from Purchased Steel,65720.0
+331300,Alumina and Aluminum Production and Processing,66670.0
+331400,Nonferrous Metal (except Aluminum) Production and Processing,70430.0
+331500,Foundries,60880.0
+332700,"Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing",63070.0
+332710,Machine Shops,62890.0
+332720,"Turned Product and Screw, Nut, and Bolt Manufacturing",63720.0
+332800,"Coating, Engraving, Heat Treating, and Allied Activities",55220.0
+333300,Commercial and Service Industry Machinery Manufacturing,81050.0
+333500,Metalworking Machinery Manufacturing,67280.0
+333600,"Engine, Turbine, and Power Transmission Equipment Manufacturing",81340.0
+334100,Computer and Peripheral Equipment Manufacturing,122050.0
+334200,Communications Equipment Manufacturing,103880.0
+334300,Audio and Video Equipment Manufacturing,96050.0
+334400,Semiconductor and Other Electronic Component Manufacturing,100320.0
+334500,"Navigational, Measuring, Electromedical, and Control Instruments Manufacturing",102650.0
+334600,Manufacturing and Reproducing Magnetic and Optical Media,100790.0
+335100,Electric Lighting Equipment Manufacturing,71720.0
+335200,Household Appliance Manufacturing,58120.0
+335300,Electrical Equipment Manufacturing,71800.0
+335900,Other Electrical Equipment and Component Manufacturing,72940.0
+336100,Motor Vehicle Manufacturing,77300.0
+336200,Motor Vehicle Body and Trailer Manufacturing,57370.0
+336300,Motor Vehicle Parts Manufacturing,61510.0
+336400,Aerospace Product and Parts Manufacturing,105300.0
+336500,Railroad Rolling Stock Manufacturing,74190.0
+336600,Ship and Boat Building,71950.0
+336900,Other Transportation Equipment Manufacturing,63450.0
+337900,Other Furniture Related Product Manufacturing,53340.0
+339100,Medical Equipment and Supplies Manufacturing,76220.0
+339900,Other Miscellaneous Manufacturing,62610.0
+339910,Jewelry and Silverware Manufacturing,60340.0
+423100,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,63730.0
+423400,Professional and Commercial Equipment and Supplies Merchant Wholesalers,98560.0
+423800,"Machinery, Equipment, and Supplies Merchant Wholesalers",74450.0
+423820,Farm and Garden Machinery and Equipment Merchant Wholesalers,66190.0
+424300,"Apparel, Piece Goods, and Notions Merchant Wholesalers",77390.0
+424500,Farm Product Raw Material Merchant Wholesalers,55610.0
+425100,Wholesale Trade Agents and Brokers,90230.0
+441100,Automobile Dealers,64140.0
+441200,Other Motor Vehicle Dealers,57850.0
+441300,"Automotive Parts, Accessories, and Tire Retailers",43860.0
+444100,Building Material and Supplies Dealers,46450.0
+444200,Lawn and Garden Equipment and Supplies Retailers,43080.0
+445300,"Beer, Wine, and Liquor Retailers",39620.0
+449100,Furniture and Home Furnishings Retailers,50300.0
+449200,Electronics and Appliance Retailers,50630.0
+456100,Health and Personal Care Retailers,56830.0
+456110,Pharmacies and Drug Retailers,61720.0
+457100,Gasoline Stations,35180.0
+457200,Fuel Dealers,63250.0
+458100,Clothing and Clothing Accessories Retailers,40670.0
+458200,Shoe Retailers,38010.0
+458300,"Jewelry, Luggage, and Leather Goods Retailers",54750.0
+459100,"Sporting Goods, Hobby, and Musical Instrument Retailers",41680.0
+459110,Sporting Goods Retailers,42240.0
+459200,Book Retailers and News Dealers,39540.0
+459300,Florists,40310.0
+459900,Other Miscellaneous Retailers,48380.0
+481100,Scheduled Air Transportation,110350.0
+481200,Nonscheduled Air Transportation,113680.0
+482100,Rail Transportation,85890.0
+483100,"Deep Sea, Coastal, and Great Lakes Water Transportation",85120.0
+483200,Inland Water Transportation,87340.0
+485100,Urban Transit Systems,59940.0
+485200,Interurban and Rural Bus Transportation,51990.0
+485300,Taxi and Limousine Service,78720.0
+485400,School and Employee Bus Transportation,51020.0
+485500,Charter Bus Industry,54300.0
+485900,Other Transit and Ground Passenger Transportation,46130.0
+486100,Pipeline Transportation of Crude Oil,112050.0
+486200,Pipeline Transportation of Natural Gas,104370.0
+486900,Other Pipeline Transportation,97130.0
+487100,"Scenic and Sightseeing Transportation, Land",50680.0
+487200,"Scenic and Sightseeing Transportation, Water",57460.0
+487900,"Scenic and Sightseeing Transportation, Other",69440.0
+488100,Support Activities for Air Transportation,62610.0
+488200,Support Activities for Rail Transportation,62250.0
+488300,Support Activities for Water Transportation,86940.0
+488400,Support Activities for Road Transportation,53750.0
+488500,Freight Transportation Arrangement,70610.0
+488900,Other Support Activities for Transportation,55400.0
+491100,Postal Service,65730.0
+492100,Couriers and Express Delivery Services,59390.0
+492200,Local Messengers and Local Delivery,47720.0
+493100,Warehousing and Storage,53680.0
+512100,Motion Picture and Video Industries,91520.0
+512130,Motion Picture and Video Exhibition,34790.0
+512200,Sound Recording Industries,97560.0
+513100,"Newspaper, Periodical, Book, and Directory Publishers",88710.0
+513110,Newspaper Publishers,69500.0
+513200,Software Publishers,142150.0
+516100,Radio and Television Broadcasting Stations,79040.0
+516110,Radio Broadcasting Stations,70010.0
+516120,Television Broadcasting Stations,86090.0
+516200,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",138510.0
+518200,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services",123660.0
+519200,"Web Search Portals, Libraries, Archives, and Other Information Services",156350.0
+521100,Monetary Authorities-Central Bank,144520.0
+522200,Nondepository Credit Intermediation,91520.0
+522290,Other Nondepository Credit Intermediation,86320.0
+524100,Insurance Carriers,97870.0
+524114,Direct Health and Medical Insurance Carriers,93210.0
+524120,"Direct Insurance (except Life, Health, and Medical) Carriers",97550.0
+524200,"Agencies, Brokerages, and Other Insurance Related Activities",85200.0
+524210,Insurance Agencies and Brokerages,84590.0
+524290,Other Insurance Related Activities,86750.0
+525100,Insurance and Employee Benefit Funds,98050.0
+525900,Other Investment Pools and Funds,130780.0
+532100,Automotive Equipment Rental and Leasing,51040.0
+533100,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),105740.0
+541100,Legal Services,115940.0
+541200,"Accounting, Tax Preparation, Bookkeeping, and Payroll Services",93230.0
+541300,"Architectural, Engineering, and Related Services",102150.0
+541330,Engineering Services,109400.0
+541380,Testing Laboratories and Services,79710.0
+541400,Specialized Design Services,82650.0
+541500,Computer Systems Design and Related Services,124640.0
+541600,"Management, Scientific, and Technical Consulting Services",105410.0
+541700,Scientific Research and Development Services,136980.0
+541710,"Research and Development in the Physical, Engineering, and Life Sciences",139740.0
+541720,Research and Development in the Social Sciences and Humanities,99080.0
+541800,"Advertising, Public Relations, and Related Services",92910.0
+541900,"Other Professional, Scientific, and Technical Services",75850.0
+541920,Photographic Services,53860.0
+541940,Veterinary Services,60890.0
+551100,Management of Companies and Enterprises,115590.0
+561100,Office Administrative Services,92260.0
+561200,Facilities Support Services,58130.0
+561300,Employment Services,58460.0
+561320,Temporary Help Services,54310.0
+561400,Business Support Services,54980.0
+561500,Travel Arrangement and Reservation Services,73680.0
+561600,Investigation and Security Services,47740.0
+561610,"Investigation, Guard, and Armored Car Services",44130.0
+561620,Security Systems Services,68040.0
+561700,Services to Buildings and Dwellings,45680.0
+561710,Exterminating and Pest Control Services,51220.0
+561730,Landscaping Services,50290.0
+561900,Other Support Services,57930.0
+562100,Waste Collection,57640.0
+562200,Waste Treatment and Disposal,69700.0
+562900,Remediation and Other Waste Management Services,65420.0
+611100,Elementary and Secondary Schools,64300.0
+611200,Junior Colleges,76230.0
+611300,"Colleges, Universities, and Professional Schools",85740.0
+611400,Business Schools and Computer and Management Training,86800.0
+611500,Technical and Trade Schools,72850.0
+611600,Other Schools and Instruction,53530.0
+611700,Educational Support Services,75300.0
+621100,Offices of Physicians,106660.0
+621200,Offices of Dentists,79690.0
+621300,Offices of Other Health Practitioners,71550.0
+621310,Offices of Chiropractors,57710.0
+621320,Offices of Optometrists,61480.0
+621330,Offices of Mental Health Practitioners (except Physicians),74950.0
+621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",75210.0
+621390,Offices of All Other Health Practitioners,75260.0
+621400,Outpatient Care Centers,87320.0
+621420,Outpatient Mental Health and Substance Abuse Centers,67240.0
+621500,Medical and Diagnostic Laboratories,78200.0
+621600,Home Health Care Services,52560.0
+621900,Other Ambulatory Health Care Services,64440.0
+621910,Ambulance Services,54710.0
+621990,All Other Ambulatory Health Care Services,73480.0
+622100,General Medical and Surgical Hospitals,89620.0
+622200,Psychiatric and Substance Abuse Hospitals,72860.0
+622300,Specialty (except Psychiatric and Substance Abuse) Hospitals,93550.0
+623100,Nursing Care Facilities (Skilled Nursing Facilities),54790.0
+623200,"Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities",48770.0
+623210,Residential Intellectual and Developmental Disability Facilities,44070.0
+623220,Residential Mental Health and Substance Abuse Facilities,56060.0
+623300,Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly,46250.0
+623900,Other Residential Care Facilities,49570.0
+624100,Individual and Family Services,43400.0
+624120,Services for the Elderly and Persons with Disabilities,39030.0
+624200,"Community Food and Housing, and Emergency and Other Relief Services",57480.0
+624300,Vocational Rehabilitation Services,46100.0
+624400,Child Care Services,41140.0
+711100,Performing Arts Companies,76250.0
+711110,Theater Companies and Dinner Theaters,66360.0
+711200,Spectator Sports,79650.0
+711300,"Promoters of Performing Arts, Sports, and Similar Events",59910.0
+711400,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",115080.0
+711500,"Independent Artists, Writers, and Performers",78370.0
+712100,"Museums, Historical Sites, and Similar Institutions",55990.0
+713100,Amusement Parks and Arcades,41730.0
+713200,Gambling Industries,49670.0
+713900,Other Amusement and Recreation Industries,44960.0
+713940,Fitness and Recreational Sports Centers,45570.0
+721100,Traveler Accommodation,45800.0
+721120,Casino Hotels,48350.0
+721200,RV (Recreational Vehicle) Parks and Recreational Camps,45520.0
+721300,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",41800.0
+722300,Special Food Services,44110.0
+722400,Drinking Places (Alcoholic Beverages),40650.0
+722500,Restaurants and Other Eating Places,37410.0
+722511,Full-Service Restaurants,40460.0
+811100,Automotive Repair and Maintenance,52980.0
+811110,Automotive Mechanical and Electrical Repair and Maintenance,57620.0
+811120,"Automotive Body, Paint, Interior, and Glass Repair",59890.0
+811190,Other Automotive Repair and Maintenance,39430.0
+811200,Electronic and Precision Equipment Repair and Maintenance,66980.0
+811300,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,69520.0
+811400,Personal and Household Goods Repair and Maintenance,54320.0
+812100,Personal Care Services,45190.0
+812200,Death Care Services,52450.0
+812300,Drycleaning and Laundry Services,42830.0
+812900,Other Personal Services,43940.0
+813100,Religious Organizations,60540.0
+813200,Grantmaking and Giving Services,94550.0
+813300,Social Advocacy Organizations,72290.0
+813400,Civic and Social Organizations,45880.0
+813900,"Business, Professional, Labor, Political, and Similar Organizations",87770.0
+813930,Labor Unions and Similar Labor Organizations,93850.0

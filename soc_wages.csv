@@ -1,0 +1,826 @@
+code,title,wage
+11-1011,Chief Executives,269630.0
+11-1021,General and Operations Managers,134940.0
+11-2011,Advertising and Promotions Managers,154280.0
+11-2021,Marketing Managers,177770.0
+11-2022,Sales Managers,164350.0
+11-2032,Public Relations Managers,164760.0
+11-2033,Fundraising Managers,140020.0
+11-3012,Administrative Services Managers,129870.0
+11-3013,Facilities Managers,116890.0
+11-3021,Computer and Information Systems Managers,192160.0
+11-3031,Financial Managers,186910.0
+11-3051,Industrial Production Managers,134170.0
+11-3061,Purchasing Managers,156360.0
+11-3071,"Transportation, Storage, and Distribution Managers",121600.0
+11-3111,Compensation and Benefits Managers,162640.0
+11-3121,Human Resources Managers,164230.0
+11-3131,Training and Development Managers,148370.0
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",99820.0
+11-9021,Construction Managers,124360.0
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",64800.0
+11-9032,"Education Administrators, Kindergarten through Secondary",116100.0
+11-9033,"Education Administrators, Postsecondary",126540.0
+11-9039,"Education Administrators, All Other",101900.0
+11-9041,Architectural and Engineering Managers,181540.0
+11-9051,Food Service Managers,74880.0
+11-9071,Gambling Managers,103050.0
+11-9072,"Entertainment and Recreation Managers, Except Gambling",89750.0
+11-9081,Lodging Managers,78740.0
+11-9111,Medical and Health Services Managers,140970.0
+11-9121,Natural Sciences Managers,180250.0
+11-9131,Postmasters and Mail Superintendents,97360.0
+11-9141,"Property, Real Estate, and Community Association Managers",83710.0
+11-9151,Social and Community Service Managers,88880.0
+11-9161,Emergency Management Directors,102420.0
+11-9171,Funeral Home Managers,92840.0
+11-9179,"Personal Service Managers, All Other",78190.0
+11-9199,"Managers, All Other",153890.0
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",141580.0
+13-1020,Buyers and Purchasing Agents,83770.0
+13-1031,"Claims Adjusters, Examiners, and Investigators",80470.0
+13-1032,"Insurance Appraisers, Auto Damage",78900.0
+13-1041,Compliance Officers,88400.0
+13-1051,Cost Estimators,85390.0
+13-1071,Human Resources Specialists,81990.0
+13-1074,Farm Labor Contractors,58470.0
+13-1075,Labor Relations Specialists,98720.0
+13-1081,Logisticians,89730.0
+13-1082,Project Management Specialists,110740.0
+13-1111,Management Analysts,113790.0
+13-1121,"Meeting, Convention, and Event Planners",66520.0
+13-1131,Fundraisers,77200.0
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",84330.0
+13-1151,Training and Development Specialists,75550.0
+13-1161,Market Research Analysts and Marketing Specialists,89490.0
+13-1199,"Business Operations Specialists, All Other",93970.0
+13-2011,Accountants and Auditors,94750.0
+13-2020,Property Appraisers and Assessors,75770.0
+13-2031,Budget Analysts,96370.0
+13-2041,Credit Analysts,100850.0
+13-2051,Financial and Investment Analysts,116800.0
+13-2052,Personal Financial Advisors,156670.0
+13-2053,Insurance Underwriters,93700.0
+13-2054,Financial Risk Specialists,124420.0
+13-2061,Financial Examiners,106240.0
+13-2071,Credit Counselors,57210.0
+13-2072,Loan Officers,87790.0
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",70520.0
+13-2082,Tax Preparers,60930.0
+13-2099,"Financial Specialists, All Other",93810.0
+15-1211,Computer Systems Analysts,114610.0
+15-1212,Information Security Analysts,132510.0
+15-1221,Computer and Information Research Scientists,153930.0
+15-1231,Computer Network Support Specialists,81870.0
+15-1232,Computer User Support Specialists,67330.0
+15-1241,Computer Network Architects,139580.0
+15-1242,Database Administrators,110090.0
+15-1243,Database Architects,144440.0
+15-1244,Network and Computer Systems Administrators,103680.0
+15-1251,Computer Programmers,105170.0
+15-1252,Software Developers,148100.0
+15-1253,Software Quality Assurance Analysts and Testers,111490.0
+15-1254,Web Developers,98770.0
+15-1255,Web and Digital Interface Designers,117490.0
+15-1299,"Computer Occupations, All Other",122230.0
+15-2011,Actuaries,141480.0
+15-2021,Mathematicians,129260.0
+15-2031,Operations Research Analysts,99730.0
+15-2041,Statisticians,115700.0
+15-2051,Data Scientists,126800.0
+15-2099,"Mathematical Science Occupations, All Other",91550.0
+17-1011,"Architects, Except Landscape and Naval",106260.0
+17-1012,Landscape Architects,88780.0
+17-1021,Cartographers and Photogrammetrists,86690.0
+17-1022,Surveyors,80570.0
+17-2011,Aerospace Engineers,142060.0
+17-2021,Agricultural Engineers,108230.0
+17-2031,Bioengineers and Biomedical Engineers,116890.0
+17-2041,Chemical Engineers,129980.0
+17-2051,Civil Engineers,108670.0
+17-2061,Computer Hardware Engineers,162670.0
+17-2071,Electrical Engineers,125100.0
+17-2072,"Electronics Engineers, Except Computer",137280.0
+17-2081,Environmental Engineers,112910.0
+17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",119770.0
+17-2112,Industrial Engineers,109900.0
+17-2121,Marine Engineers and Naval Architects,124180.0
+17-2131,Materials Engineers,120250.0
+17-2141,Mechanical Engineers,113610.0
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",115410.0
+17-2161,Nuclear Engineers,140420.0
+17-2171,Petroleum Engineers,157150.0
+17-2199,"Engineers, All Other",125330.0
+17-3011,Architectural and Civil Drafters,70740.0
+17-3012,Electrical and Electronics Drafters,81280.0
+17-3013,Mechanical Drafters,75060.0
+17-3019,"Drafters, All Other",68250.0
+17-3021,Aerospace Engineering and Operations Technologists and Technicians,91310.0
+17-3022,Civil Engineering Technologists and Technicians,68990.0
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,80680.0
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,76420.0
+17-3025,Environmental Engineering Technologists and Technicians,64870.0
+17-3026,Industrial Engineering Technologists and Technicians,70700.0
+17-3027,Mechanical Engineering Technologists and Technicians,76380.0
+17-3028,Calibration Technologists and Technicians,74170.0
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",80960.0
+17-3031,Surveying and Mapping Technicians,58000.0
+19-1011,Animal Scientists,88350.0
+19-1012,Food Scientists and Technologists,95360.0
+19-1013,Soil and Plant Scientists,87720.0
+19-1021,Biochemists and Biophysicists,129840.0
+19-1022,Microbiologists,97600.0
+19-1023,Zoologists and Wildlife Biologists,83020.0
+19-1029,"Biological Scientists, All Other",106330.0
+19-1031,Conservation Scientists,77130.0
+19-1032,Foresters,79170.0
+19-1041,Epidemiologists,97890.0
+19-1042,"Medical Scientists, Except Epidemiologists",116840.0
+19-1099,"Life Scientists, All Other",107860.0
+19-2011,Astronomers,132920.0
+19-2012,Physicists,171180.0
+19-2021,Atmospheric and Space Scientists,106110.0
+19-2031,Chemists,100450.0
+19-2032,Materials Scientists,126180.0
+19-2041,"Environmental Scientists and Specialists, Including Health",91680.0
+19-2042,"Geoscientists, Except Hydrologists and Geographers",116150.0
+19-2043,Hydrologists,103600.0
+19-2099,"Physical Scientists, All Other",129230.0
+19-3011,Economists,142130.0
+19-3022,Survey Researchers,79580.0
+19-3032,Industrial-Organizational Psychologists,170230.0
+19-3033,Clinical and Counseling Psychologists,112750.0
+19-3034,School Psychologists,99160.0
+19-3039,"Psychologists, All Other",111210.0
+19-3041,Sociologists,114920.0
+19-3051,Urban and Regional Planners,94750.0
+19-3091,Anthropologists and Archeologists,75620.0
+19-3092,Geographers,102350.0
+19-3093,Historians,81240.0
+19-3094,Political Scientists,142510.0
+19-3099,"Social Scientists and Related Workers, All Other",107690.0
+19-4012,Agricultural Technicians,53840.0
+19-4013,Food Science Technicians,56660.0
+19-4021,Biological Technicians,61380.0
+19-4031,Chemical Technicians,63900.0
+19-4042,"Environmental Science and Protection Technicians, Including Health",60800.0
+19-4043,"Geological Technicians, Except Hydrologic Technicians",61870.0
+19-4044,Hydrologic Technicians,69530.0
+19-4051,Nuclear Technicians,108940.0
+19-4061,Social Science Research Assistants,66140.0
+19-4071,Forest and Conservation Technicians,59060.0
+19-4092,Forensic Science Technicians,79200.0
+19-4099,"Life, Physical, and Social Science Technicians, All Other",66280.0
+19-5011,Occupational Health and Safety Specialists,93860.0
+19-5012,Occupational Health and Safety Technicians,68120.0
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",71430.0
+21-1013,Marriage and Family Therapists,76960.0
+21-1015,Rehabilitation Counselors,51820.0
+21-1018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",64440.0
+21-1019,"Counselors, All Other",58210.0
+21-1021,"Child, Family, and School Social Workers",64000.0
+21-1022,Healthcare Social Workers,71790.0
+21-1023,Mental Health and Substance Abuse Social Workers,68030.0
+21-1029,"Social Workers, All Other",75910.0
+21-1091,Health Education Specialists,73280.0
+21-1092,Probation Officers and Correctional Treatment Specialists,73130.0
+21-1093,Social and Human Service Assistants,47690.0
+21-1094,Community Health Workers,56180.0
+21-1099,"Community and Social Service Specialists, All Other",59590.0
+21-2011,Clergy,66860.0
+21-2021,"Directors, Religious Activities and Education",62100.0
+21-2099,"Religious Workers, All Other",53870.0
+23-1011,Lawyers,185840.0
+23-1012,Judicial Law Clerks,72950.0
+23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers",125990.0
+23-1022,"Arbitrators, Mediators, and Conciliators",91010.0
+23-1023,"Judges, Magistrate Judges, and Magistrates",143830.0
+23-2011,Paralegals and Legal Assistants,69700.0
+23-2093,"Title Examiners, Abstractors, and Searchers",62350.0
+23-2099,"Legal Support Workers, All Other",89660.0
+25-1011,"Business Teachers, Postsecondary",114720.0
+25-1021,"Computer Science Teachers, Postsecondary",104420.0
+25-1022,"Mathematical Science Teachers, Postsecondary",91550.0
+25-1031,"Architecture Teachers, Postsecondary",101250.0
+25-1032,"Engineering Teachers, Postsecondary",124520.0
+25-1041,"Agricultural Sciences Teachers, Postsecondary",102050.0
+25-1042,"Biological Science Teachers, Postsecondary",102840.0
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",102450.0
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",116020.0
+25-1052,"Chemistry Teachers, Postsecondary",105210.0
+25-1053,"Environmental Science Teachers, Postsecondary",103610.0
+25-1054,"Physics Teachers, Postsecondary",111460.0
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",106880.0
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",98330.0
+25-1063,"Economics Teachers, Postsecondary",138850.0
+25-1064,"Geography Teachers, Postsecondary",102350.0
+25-1065,"Political Science Teachers, Postsecondary",108100.0
+25-1066,"Psychology Teachers, Postsecondary",93860.0
+25-1067,"Sociology Teachers, Postsecondary",96980.0
+25-1069,"Social Sciences Teachers, Postsecondary, All Other",88390.0
+25-1071,"Health Specialties Teachers, Postsecondary",147570.0
+25-1072,"Nursing Instructors and Teachers, Postsecondary",86410.0
+25-1081,"Education Teachers, Postsecondary",79350.0
+25-1082,"Library Science Teachers, Postsecondary",88110.0
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",87550.0
+25-1112,"Law Teachers, Postsecondary",144770.0
+25-1113,"Social Work Teachers, Postsecondary",83940.0
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",94700.0
+25-1122,"Communications Teachers, Postsecondary",90010.0
+25-1123,"English Language and Literature Teachers, Postsecondary",89580.0
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",89990.0
+25-1125,"History Teachers, Postsecondary",96580.0
+25-1126,"Philosophy and Religion Teachers, Postsecondary",92040.0
+25-1192,"Family and Consumer Sciences Teachers, Postsecondary",81940.0
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",86620.0
+25-1194,"Career/Technical Education Teachers, Postsecondary",72060.0
+25-1199,"Postsecondary Teachers, All Other",90630.0
+25-2011,"Preschool Teachers, Except Special Education",43030.0
+25-2012,"Kindergarten Teachers, Except Special Education",69370.0
+25-2021,"Elementary School Teachers, Except Special Education",72650.0
+25-2022,"Middle School Teachers, Except Special and Career/Technical Education",72030.0
+25-2023,"Career/Technical Education Teachers, Middle School",71590.0
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",76320.0
+25-2032,"Career/Technical Education Teachers, Secondary School",72680.0
+25-2051,"Special Education Teachers, Preschool",76380.0
+25-2052,"Special Education Teachers, Kindergarten and Elementary School",72650.0
+25-2057,"Special Education Teachers, Middle School",73780.0
+25-2058,"Special Education Teachers, Secondary School",77260.0
+25-2059,"Special Education Teachers, All Other",79750.0
+25-3011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",65860.0
+25-3021,Self-Enrichment Teachers,54740.0
+25-3031,"Substitute Teachers, Short-Term",46420.0
+25-3041,Tutors,48050.0
+25-3099,"Teachers and Instructors, All Other",73880.0
+25-4011,Archivists,70640.0
+25-4012,Curators,71560.0
+25-4013,Museum Technicians and Conservators,57410.0
+25-4022,Librarians and Media Collections Specialists,72840.0
+25-4031,Library Technicians,45500.0
+25-9021,Farm and Home Management Educators,61060.0
+25-9031,Instructional Coordinators,80920.0
+25-9044,"Teaching Assistants, Postsecondary",47670.0
+25-9045,"Teaching Assistants, Except Postsecondary",38290.0
+25-9099,"Educational Instruction and Library Workers, All Other",59060.0
+27-1011,Art Directors,129440.0
+27-1012,Craft Artists,49740.0
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",73150.0
+27-1014,Special Effects Artists and Animators,112870.0
+27-1019,"Artists and Related Workers, All Other",80530.0
+27-1021,Commercial and Industrial Designers,93260.0
+27-1022,Fashion Designers,91230.0
+27-1023,Floral Designers,39520.0
+27-1024,Graphic Designers,70560.0
+27-1025,Interior Designers,74540.0
+27-1026,Merchandise Displayers and Window Trimmers,42830.0
+27-1027,Set and Exhibit Designers,83160.0
+27-1029,"Designers, All Other",79090.0
+27-2012,Producers and Directors,113300.0
+27-2021,Athletes and Sports Competitors,206180.0
+27-2022,Coaches and Scouts,60160.0
+27-2023,"Umpires, Referees, and Other Sports Officials",53010.0
+27-2032,Choreographers,73100.0
+27-2041,Music Directors and Composers,90470.0
+27-3011,Broadcast Announcers and Radio Disc Jockeys,78720.0
+27-3023,"News Analysts, Reporters, and Journalists",102460.0
+27-3031,Public Relations Specialists,84120.0
+27-3041,Editors,90060.0
+27-3042,Technical Writers,96970.0
+27-3043,Writers and Authors,86090.0
+27-3091,Interpreters and Translators,66360.0
+27-3092,Court Reporters and Simultaneous Captioners,78760.0
+27-3099,"Media and Communication Workers, All Other",83860.0
+27-4011,Audio and Video Technicians,64630.0
+27-4012,Broadcast Technicians,67960.0
+27-4014,Sound Engineering Technicians,81390.0
+27-4015,Lighting Technicians,78380.0
+27-4021,Photographers,55410.0
+27-4031,"Camera Operators, Television, Video, and Film",83210.0
+27-4032,Film and Video Editors,86130.0
+27-4099,"Media and Communication Equipment Workers, All Other",81040.0
+29-1011,Chiropractors,90520.0
+29-1021,"Dentists, General",191350.0
+29-1022,Oral and Maxillofacial Surgeons,346490.0
+29-1023,Orthodontists,259400.0
+29-1024,Prosthodontists,268630.0
+29-1029,"Dentists, All Other Specialists",247930.0
+29-1031,Dietitians and Nutritionists,77130.0
+29-1041,Optometrists,141550.0
+29-1051,Pharmacists,140920.0
+29-1071,Physician Assistants,141280.0
+29-1081,Podiatrists,175480.0
+29-1122,Occupational Therapists,101280.0
+29-1123,Physical Therapists,105280.0
+29-1124,Radiation Therapists,114990.0
+29-1125,Recreational Therapists,67630.0
+29-1126,Respiratory Therapists,87300.0
+29-1127,Speech-Language Pathologists,98170.0
+29-1128,Exercise Physiologists,60940.0
+29-1129,"Therapists, All Other",90420.0
+29-1131,Veterinarians,142680.0
+29-1141,Registered Nurses,101420.0
+29-1151,Nurse Anesthetists,248320.0
+29-1161,Nurse Midwives,136980.0
+29-1171,Nurse Practitioners,137300.0
+29-1181,Audiologists,97740.0
+29-1211,Anesthesiologists,360570.0
+29-1212,Cardiologists,454940.0
+29-1213,Dermatologists,323530.0
+29-1214,Emergency Medicine Physicians,317480.0
+29-1215,Family Medicine Physicians,255820.0
+29-1216,General Internal Medicine Physicians,267200.0
+29-1217,Neurologists,267630.0
+29-1218,Obstetricians and Gynecologists,279040.0
+29-1221,"Pediatricians, General",212110.0
+29-1222,"Physicians, Pathologists",285420.0
+29-1223,Psychiatrists,269940.0
+29-1224,Radiologists,381530.0
+29-1229,"Physicians, All Other",262040.0
+29-1241,"Ophthalmologists, Except Pediatric",304650.0
+29-1242,"Orthopedic Surgeons, Except Pediatric",373570.0
+29-1243,Pediatric Surgeons,502050.0
+29-1249,"Surgeons, All Other",373930.0
+29-1291,Acupuncturists,87020.0
+29-1292,Dental Hygienists,98990.0
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",127660.0
+29-2010,Clinical Laboratory Technologists and Technicians,67350.0
+29-2031,Cardiovascular Technologists and Technicians,76940.0
+29-2032,Diagnostic Medical Sonographers,97240.0
+29-2033,Nuclear Medicine Technologists,105160.0
+29-2034,Radiologic Technologists and Technicians,83840.0
+29-2035,Magnetic Resonance Imaging Technologists,96120.0
+29-2036,Medical Dosimetrists,148500.0
+29-2042,Emergency Medical Technicians,46830.0
+29-2043,Paramedics,63360.0
+29-2051,Dietetic Technicians,40630.0
+29-2052,Pharmacy Technicians,46620.0
+29-2053,Psychiatric Technicians,46610.0
+29-2055,Surgical Technologists,68710.0
+29-2056,Veterinary Technologists and Technicians,49120.0
+29-2057,Ophthalmic Medical Technicians,47060.0
+29-2061,Licensed Practical and Licensed Vocational Nurses,67050.0
+29-2072,Medical Records Specialists,56790.0
+29-2081,"Opticians, Dispensing",51770.0
+29-2091,Orthotists and Prosthetists,83740.0
+29-2092,Hearing Aid Specialists,66370.0
+29-2099,"Health Technologists and Technicians, All Other",58710.0
+29-9021,Health Information Technologists and Medical Registrars,74970.0
+29-9091,Athletic Trainers,66620.0
+29-9092,Genetic Counselors,104620.0
+29-9093,Surgical Assistants,72710.0
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",76720.0
+31-1120,Home Health and Personal Care Aides,36120.0
+31-1131,Nursing Assistants,42700.0
+31-1132,Orderlies,40660.0
+31-1133,Psychiatric Aides,45690.0
+31-2011,Occupational Therapy Assistants,70710.0
+31-2012,Occupational Therapy Aides,44110.0
+31-2021,Physical Therapist Assistants,68730.0
+31-2022,Physical Therapist Aides,36430.0
+31-9011,Massage Therapists,63830.0
+31-9091,Dental Assistants,50200.0
+31-9092,Medical Assistants,46120.0
+31-9093,Medical Equipment Preparers,50510.0
+31-9094,Medical Transcriptionists,41710.0
+31-9095,Pharmacy Aides,40450.0
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,40340.0
+31-9097,Phlebotomists,45520.0
+31-9099,"Healthcare Support Workers, All Other",50810.0
+33-1011,First-Line Supervisors of Correctional Officers,84380.0
+33-1012,First-Line Supervisors of Police and Detectives,112190.0
+33-1021,First-Line Supervisors of Firefighting and Prevention Workers,96930.0
+33-1091,First-Line Supervisors of Security Workers,59900.0
+33-1099,"First-Line Supervisors of Protective Service Workers, All Other",74390.0
+33-2011,Firefighters,63630.0
+33-2021,Fire Inspectors and Investigators,78670.0
+33-2022,Forest Fire Inspectors and Prevention Specialists,66640.0
+33-3011,Bailiffs,61660.0
+33-3012,Correctional Officers and Jailers,63630.0
+33-3021,Detectives and Criminal Investigators,99430.0
+33-3031,Fish and Game Wardens,74950.0
+33-3041,Parking Enforcement Workers,51190.0
+33-3051,Police and Sheriff's Patrol Officers,79200.0
+33-3052,Transit and Railroad Police,91810.0
+33-9011,Animal Control Workers,48440.0
+33-9021,Private Detectives and Investigators,60150.0
+33-9031,Gambling Surveillance Officers and Gambling Investigators,45630.0
+33-9032,Security Guards,42470.0
+33-9091,Crossing Guards and Flaggers,43350.0
+33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",34470.0
+33-9093,Transportation Security Screeners,64310.0
+33-9094,School Bus Monitors,35150.0
+33-9099,"Protective Service Workers, All Other",48070.0
+35-1011,Chefs and Head Cooks,66700.0
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,46180.0
+35-2011,"Cooks, Fast Food",32390.0
+35-2012,"Cooks, Institution and Cafeteria",38810.0
+35-2013,"Cooks, Private Household",53680.0
+35-2014,"Cooks, Restaurant",38730.0
+35-2015,"Cooks, Short Order",36120.0
+35-2019,"Cooks, All Other",39150.0
+35-2021,Food Preparation Workers,35290.0
+35-3011,Bartenders,40790.0
+35-3023,Fast Food and Counter Workers,32150.0
+35-3031,Waiters and Waitresses,40060.0
+35-3041,"Food Servers, Nonrestaurant",36140.0
+35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers,34230.0
+35-9021,Dishwashers,34310.0
+35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",32690.0
+35-9099,"Food Preparation and Serving Related Workers, All Other",36810.0
+37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers,53320.0
+37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",60960.0
+37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",38760.0
+37-2012,Maids and Housekeeping Cleaners,37080.0
+37-2019,"Building Cleaning Workers, All Other",46420.0
+37-2021,Pest Control Workers,46400.0
+37-3011,Landscaping and Groundskeeping Workers,42290.0
+37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",47070.0
+37-3013,Tree Trimmers and Pruners,55970.0
+37-3019,"Grounds Maintenance Workers, All Other",48830.0
+39-1013,First-Line Supervisors of Gambling Services Workers,64830.0
+39-1014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",53550.0
+39-1022,First-Line Supervisors of Personal Service Workers,52360.0
+39-2011,Animal Trainers,47020.0
+39-2021,Animal Caretakers,37300.0
+39-3011,Gambling Dealers,42550.0
+39-3012,Gambling and Sports Book Writers and Runners,36450.0
+39-3019,"Gambling Service Workers, All Other",41380.0
+39-3021,Motion Picture Projectionists,51480.0
+39-3031,"Ushers, Lobby Attendants, and Ticket Takers",33080.0
+39-3091,Amusement and Recreation Attendants,32640.0
+39-3092,Costume Attendants,63440.0
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",38460.0
+39-3099,"Entertainment Attendants and Related Workers, All Other",34980.0
+39-4011,Embalmers,58390.0
+39-4012,Crematory Operators,45670.0
+39-4021,Funeral Attendants,37190.0
+39-4031,"Morticians, Undertakers, and Funeral Arrangers",58160.0
+39-5011,Barbers,47070.0
+39-5012,"Hairdressers, Hairstylists, and Cosmetologists",43960.0
+39-5091,"Makeup Artists, Theatrical and Performance",102240.0
+39-5092,Manicurists and Pedicurists,38570.0
+39-5093,Shampooers,31980.0
+39-5094,Skincare Specialists,51850.0
+39-6011,Baggage Porters and Bellhops,38570.0
+39-6012,Concierges,42510.0
+39-7010,Tour and Travel Guides,43720.0
+39-9011,Childcare Workers,35030.0
+39-9031,Exercise Trainers and Group Fitness Instructors,52420.0
+39-9032,Recreation Workers,38520.0
+39-9041,Residential Advisors,43990.0
+39-9099,"Personal Care and Service Workers, All Other",40120.0
+41-1011,First-Line Supervisors of Retail Sales Workers,53380.0
+41-1012,First-Line Supervisors of Non-Retail Sales Workers,99370.0
+41-2011,Cashiers,33180.0
+41-2012,Gambling Change Persons and Booth Cashiers,39100.0
+41-2021,Counter and Rental Clerks,45700.0
+41-2022,Parts Salespersons,43830.0
+41-2031,Retail Salespersons,37310.0
+41-3011,Advertising Sales Agents,80670.0
+41-3021,Insurance Sales Agents,81480.0
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",109150.0
+41-3041,Travel Agents,54660.0
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",82430.0
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",119730.0
+41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",82530.0
+41-9011,Demonstrators and Product Promoters,45580.0
+41-9012,Models,72800.0
+41-9021,Real Estate Brokers,83950.0
+41-9022,Real Estate Sales Agents,69510.0
+41-9031,Sales Engineers,130140.0
+41-9041,Telemarketers,37370.0
+41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",43850.0
+41-9099,"Sales and Related Workers, All Other",58510.0
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,73490.0
+43-2011,"Switchboard Operators, Including Answering Service",42300.0
+43-2021,Telephone Operators,44970.0
+43-2099,"Communications Equipment Operators, All Other",62130.0
+43-3011,Bill and Account Collectors,49060.0
+43-3021,Billing and Posting Clerks,51070.0
+43-3031,"Bookkeeping, Accounting, and Auditing Clerks",53560.0
+43-3041,Gambling Cage Workers,39510.0
+43-3051,Payroll and Timekeeping Clerks,59630.0
+43-3061,Procurement Clerks,52370.0
+43-3071,Tellers,42350.0
+43-3099,"Financial Clerks, All Other",56450.0
+43-4011,Brokerage Clerks,72850.0
+43-4021,Correspondence Clerks,48090.0
+43-4031,"Court, Municipal, and License Clerks",52320.0
+43-4041,"Credit Authorizers, Checkers, and Clerks",51420.0
+43-4051,Customer Service Representatives,46590.0
+43-4061,"Eligibility Interviewers, Government Programs",56090.0
+43-4071,File Clerks,45590.0
+43-4081,"Hotel, Motel, and Resort Desk Clerks",35550.0
+43-4111,"Interviewers, Except Eligibility and Loan",47240.0
+43-4121,"Library Assistants, Clerical",39370.0
+43-4131,Loan Interviewers and Clerks,52520.0
+43-4141,New Accounts Clerks,49370.0
+43-4151,Order Clerks,48220.0
+43-4161,"Human Resources Assistants, Except Payroll and Timekeeping",52250.0
+43-4171,Receptionists and Information Clerks,39460.0
+43-4181,Reservation and Transportation Ticket Agents and Travel Clerks,49630.0
+43-4199,"Information and Record Clerks, All Other",51490.0
+43-5011,Cargo and Freight Agents,57230.0
+43-5021,Couriers and Messengers,40970.0
+43-5031,Public Safety Telecommunicators,56740.0
+43-5032,"Dispatchers, Except Police, Fire, and Ambulance",54740.0
+43-5041,"Meter Readers, Utilities",55380.0
+43-5051,Postal Service Clerks,61860.0
+43-5052,Postal Service Mail Carriers,62540.0
+43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",59430.0
+43-5061,"Production, Planning, and Expediting Clerks",62150.0
+43-5071,"Shipping, Receiving, and Inventory Clerks",46810.0
+43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",47630.0
+43-6011,Executive Secretaries and Executive Administrative Assistants,79140.0
+43-6012,Legal Secretaries and Administrative Assistants,60620.0
+43-6013,Medical Secretaries and Administrative Assistants,46800.0
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",49350.0
+43-9021,Data Entry Keyers,43310.0
+43-9022,Word Processors and Typists,51120.0
+43-9031,Desktop Publishers,61970.0
+43-9041,Insurance Claims and Policy Processing Clerks,52920.0
+43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service",41650.0
+43-9061,"Office Clerks, General",46420.0
+43-9071,"Office Machine Operators, Except Computer",43220.0
+43-9081,Proofreaders and Copy Markers,54800.0
+43-9111,Statistical Assistants,55650.0
+43-9199,"Office and Administrative Support Workers, All Other",48670.0
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",62730.0
+45-2011,Agricultural Inspectors,54910.0
+45-2021,Animal Breeders,57010.0
+45-2041,"Graders and Sorters, Agricultural Products",36430.0
+45-2091,Agricultural Equipment Operators,43710.0
+45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",37630.0
+45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",39260.0
+45-2099,"Agricultural Workers, All Other",45510.0
+45-4011,Forest and Conservation Workers,43680.0
+45-4021,Fallers,57110.0
+45-4022,Logging Equipment Operators,53190.0
+45-4023,Log Graders and Scalers,47770.0
+45-4029,"Logging Workers, All Other",52910.0
+47-1011,First-Line Supervisors of Construction Trades and Extraction Workers,86450.0
+47-2011,Boilermakers,80090.0
+47-2021,Brickmasons and Blockmasons,68280.0
+47-2022,Stonemasons,60710.0
+47-2031,Carpenters,65630.0
+47-2041,Carpet Installers,56990.0
+47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",61760.0
+47-2043,Floor Sanders and Finishers,52460.0
+47-2044,Tile and Stone Setters,59250.0
+47-2051,Cement Masons and Concrete Finishers,60050.0
+47-2053,Terrazzo Workers and Finishers,84920.0
+47-2061,Construction Laborers,52030.0
+47-2071,"Paving, Surfacing, and Tamping Equipment Operators",59000.0
+47-2072,Pile Driver Operators,80710.0
+47-2073,Operating Engineers and Other Construction Equipment Operators,66290.0
+47-2081,Drywall and Ceiling Tile Installers,63600.0
+47-2082,Tapers,72710.0
+47-2111,Electricians,71490.0
+47-2121,Glaziers,59720.0
+47-2131,"Insulation Workers, Floor, Ceiling, and Wall",54740.0
+47-2132,"Insulation Workers, Mechanical",65530.0
+47-2141,"Painters, Construction and Maintenance",55420.0
+47-2142,Paperhangers,53730.0
+47-2151,Pipelayers,54700.0
+47-2152,"Plumbers, Pipefitters, and Steamfitters",72170.0
+47-2161,Plasterers and Stucco Masons,62050.0
+47-2171,Reinforcing Iron and Rebar Workers,66060.0
+47-2181,Roofers,58140.0
+47-2211,Sheet Metal Workers,67850.0
+47-2221,Structural Iron and Steel Workers,70280.0
+47-2231,Solar Photovoltaic Installers,57900.0
+47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",50920.0
+47-3012,Helpers--Carpenters,44050.0
+47-3013,Helpers--Electricians,44080.0
+47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",42440.0
+47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",43730.0
+47-3016,Helpers--Roofers,45150.0
+47-3019,"Helpers, Construction Trades, All Other",45140.0
+47-4011,Construction and Building Inspectors,77730.0
+47-4021,Elevator and Escalator Installers and Repairers,109820.0
+47-4031,Fence Erectors,50530.0
+47-4041,Hazardous Materials Removal Workers,56430.0
+47-4051,Highway Maintenance Workers,53080.0
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,68740.0
+47-4071,Septic Tank Servicers and Sewer Pipe Cleaners,53500.0
+47-4090,Miscellaneous Construction and Related Workers,55130.0
+47-5011,"Derrick Operators, Oil and Gas",60210.0
+47-5012,"Rotary Drill Operators, Oil and Gas",72130.0
+47-5013,"Service Unit Operators, Oil and Gas",62470.0
+47-5022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",59930.0
+47-5023,"Earth Drillers, Except Oil and Gas",62830.0
+47-5032,"Explosives Workers, Ordnance Handling Experts, and Blasters",66640.0
+47-5041,Continuous Mining Machine Operators,65050.0
+47-5043,"Roof Bolters, Mining",78100.0
+47-5044,"Loading and Moving Machine Operators, Underground Mining",71240.0
+47-5049,"Underground Mining Machine Operators, All Other",69860.0
+47-5051,"Rock Splitters, Quarry",51500.0
+47-5071,"Roustabouts, Oil and Gas",49200.0
+47-5081,Helpers--Extraction Workers,50620.0
+47-5099,"Extraction Workers, All Other",57890.0
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",85220.0
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",50880.0
+49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers",69870.0
+49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",68500.0
+49-2091,Avionics Technicians,83380.0
+49-2092,"Electric Motor, Power Tool, and Related Repairers",58610.0
+49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",83300.0
+49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",75570.0
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",100760.0
+49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles",51560.0
+49-2097,Audiovisual Equipment Installers and Repairers,57930.0
+49-2098,Security and Fire Alarm Systems Installers,60960.0
+49-3011,Aircraft Mechanics and Service Technicians,84740.0
+49-3021,Automotive Body and Related Repairers,59690.0
+49-3022,Automotive Glass Installers and Repairers,50430.0
+49-3023,Automotive Service Technicians and Mechanics,56420.0
+49-3031,Bus and Truck Mechanics and Diesel Engine Specialists,64320.0
+49-3041,Farm Equipment Mechanics and Service Technicians,57290.0
+49-3042,"Mobile Heavy Equipment Mechanics, Except Engines",69240.0
+49-3043,Rail Car Repairers,70680.0
+49-3051,Motorboat Mechanics and Service Technicians,58070.0
+49-3052,Motorcycle Mechanics,52370.0
+49-3053,Outdoor Power Equipment and Other Small Engine Mechanics,49990.0
+49-3091,Bicycle Repairers,42730.0
+49-3092,Recreational Vehicle Service Technicians,56440.0
+49-3093,Tire Repairers and Changers,40170.0
+49-9011,Mechanical Door Repairers,57540.0
+49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door",76210.0
+49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",64780.0
+49-9031,Home Appliance Repairers,56040.0
+49-9041,Industrial Machinery Mechanics,68460.0
+49-9043,"Maintenance Workers, Machinery",64610.0
+49-9044,Millwrights,69780.0
+49-9045,"Refractory Materials Repairers, Except Brickmasons",63770.0
+49-9051,Electrical Power-Line Installers and Repairers,91970.0
+49-9052,Telecommunications Line Installers and Repairers,73940.0
+49-9061,Camera and Photographic Equipment Repairers,56040.0
+49-9062,Medical Equipment Repairers,65930.0
+49-9063,Musical Instrument Repairers and Tuners,49960.0
+49-9064,Watch and Clock Repairers,70840.0
+49-9069,"Precision Instrument and Equipment Repairers, All Other",71180.0
+49-9071,"Maintenance and Repair Workers, General",53780.0
+49-9081,Wind Turbine Service Technicians,68980.0
+49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers",49770.0
+49-9092,Commercial Divers,88320.0
+49-9094,Locksmiths and Safe Repairers,55470.0
+49-9095,Manufactured Building and Mobile Home Installers,45410.0
+49-9096,Riggers,66810.0
+49-9097,Signal and Track Switch Repairers,90410.0
+49-9098,"Helpers--Installation, Maintenance, and Repair Workers",41490.0
+49-9099,"Installation, Maintenance, and Repair Workers, All Other",53850.0
+51-1011,First-Line Supervisors of Production and Operating Workers,76600.0
+51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",71420.0
+51-2021,"Coil Winders, Tapers, and Finishers",50470.0
+51-2028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",47660.0
+51-2031,Engine and Other Machine Assemblers,57790.0
+51-2041,Structural Metal Fabricators and Fitters,54030.0
+51-2051,Fiberglass Laminators and Fabricators,49550.0
+51-2061,Timing Device Assemblers and Adjusters,56720.0
+51-2090,Miscellaneous Assemblers and Fabricators,46660.0
+51-3011,Bakers,38480.0
+51-3021,Butchers and Meat Cutters,42380.0
+51-3022,"Meat, Poultry, and Fish Cutters and Trimmers",39280.0
+51-3023,Slaughterers and Meat Packers,41770.0
+51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",45930.0
+51-3092,Food Batchmakers,43750.0
+51-3093,Food Cooking Machine Operators and Tenders,42570.0
+51-3099,"Food Processing Workers, All Other",40300.0
+51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",49480.0
+51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",51680.0
+51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",53220.0
+51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",48430.0
+51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",51810.0
+51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",48170.0
+51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",52490.0
+51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",56740.0
+51-4041,Machinists,59320.0
+51-4051,Metal-Refining Furnace Operators and Tenders,55490.0
+51-4052,"Pourers and Casters, Metal",54290.0
+51-4061,"Model Makers, Metal and Plastic",68570.0
+51-4062,"Patternmakers, Metal and Plastic",60610.0
+51-4071,Foundry Mold and Coremakers,49860.0
+51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",45960.0
+51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",50030.0
+51-4111,Tool and Die Makers,66860.0
+51-4121,"Welders, Cutters, Solderers, and Brazers",56760.0
+51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",50220.0
+51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",50450.0
+51-4192,"Layout Workers, Metal and Plastic",66520.0
+51-4193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",45100.0
+51-4194,"Tool Grinders, Filers, and Sharpeners",53240.0
+51-4199,"Metal Workers and Plastic Workers, All Other",48580.0
+51-5111,Prepress Technicians and Workers,50800.0
+51-5112,Printing Press Operators,47360.0
+51-5113,Print Binding and Finishing Workers,44460.0
+51-6011,Laundry and Dry-Cleaning Workers,34920.0
+51-6021,"Pressers, Textile, Garment, and Related Materials",34640.0
+51-6031,Sewing Machine Operators,37600.0
+51-6041,Shoe and Leather Workers and Repairers,39160.0
+51-6042,Shoe Machine Operators and Tenders,36280.0
+51-6051,"Sewers, Hand",37210.0
+51-6052,"Tailors, Dressmakers, and Custom Sewers",45140.0
+51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders,40380.0
+51-6062,"Textile Cutting Machine Setters, Operators, and Tenders",39530.0
+51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",40720.0
+51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",40120.0
+51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",48580.0
+51-6092,Fabric and Apparel Patternmakers,71420.0
+51-6093,Upholsterers,47340.0
+51-6099,"Textile, Apparel, and Furnishings Workers, All Other",40560.0
+51-7011,Cabinetmakers and Bench Carpenters,48290.0
+51-7021,Furniture Finishers,45300.0
+51-7031,"Model Makers, Wood",63670.0
+51-7032,"Patternmakers, Wood",54240.0
+51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood",43580.0
+51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",43570.0
+51-7099,"Woodworkers, All Other",46070.0
+51-8011,Nuclear Power Reactor Operators,121380.0
+51-8012,Power Distributors and Dispatchers,111320.0
+51-8013,Power Plant Operators,99790.0
+51-8021,Stationary Engineers and Boiler Operators,83960.0
+51-8031,Water and Wastewater Treatment Plant and System Operators,62540.0
+51-8091,Chemical Plant and System Operators,79970.0
+51-8092,Gas Plant Operators,88710.0
+51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",90630.0
+51-8099,"Plant and System Operators, All Other",65700.0
+51-9011,Chemical Equipment Operators and Tenders,60710.0
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",56030.0
+51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",51380.0
+51-9022,"Grinding and Polishing Workers, Hand",45020.0
+51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders",52090.0
+51-9031,"Cutters and Trimmers, Hand",41050.0
+51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders",47460.0
+51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",47260.0
+51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",50940.0
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",53450.0
+51-9071,Jewelers and Precious Stone and Metal Workers,57960.0
+51-9081,Dental Laboratory Technicians,54290.0
+51-9082,Medical Appliance Technicians,52730.0
+51-9083,Ophthalmic Laboratory Technicians,43190.0
+51-9111,Packaging and Filling Machine Operators and Tenders,44590.0
+51-9123,"Painting, Coating, and Decorating Workers",45210.0
+51-9124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",52620.0
+51-9141,Semiconductor Processing Technicians,60180.0
+51-9151,Photographic Process Workers and Processing Machine Operators,46050.0
+51-9161,Computer Numerically Controlled Tool Operators,54320.0
+51-9162,Computer Numerically Controlled Tool Programmers,72210.0
+51-9191,Adhesive Bonding Machine Operators and Tenders,46850.0
+51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",44600.0
+51-9193,Cooling and Freezing Equipment Operators and Tenders,44940.0
+51-9194,Etchers and Engravers,46320.0
+51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic",47500.0
+51-9196,"Paper Goods Machine Setters, Operators, and Tenders",52840.0
+51-9197,Tire Builders,57160.0
+51-9198,Helpers--Production Workers,41120.0
+51-9199,"Production Workers, All Other",44380.0
+53-1041,Aircraft Cargo Handling Supervisors,65010.0
+53-1047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",66860.0
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",288650.0
+53-2012,Commercial Pilots,146080.0
+53-2021,Air Traffic Controllers,146490.0
+53-2022,Airfield Operations Specialists,63610.0
+53-2031,Flight Attendants,77440.0
+53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",36210.0
+53-3031,Driver/Sales Workers,40730.0
+53-3032,Heavy and Tractor-Trailer Truck Drivers,59710.0
+53-3033,Light Truck Drivers,48770.0
+53-3051,"Bus Drivers, School",48430.0
+53-3052,"Bus Drivers, Transit and Intercity",60280.0
+53-3053,Shuttle Drivers and Chauffeurs,39880.0
+53-3054,Taxi Drivers,49930.0
+53-3099,"Motor Vehicle Operators, All Other",42430.0
+53-4011,Locomotive Engineers,85900.0
+53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",68450.0
+53-4022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",69030.0
+53-4031,Railroad Conductors and Yardmasters,79100.0
+53-4041,Subway and Streetcar Operators,77170.0
+53-4099,"Rail Transportation Workers, All Other",60140.0
+53-5011,Sailors and Marine Oilers,56830.0
+53-5021,"Captains, Mates, and Pilots of Water Vessels",103720.0
+53-5022,Motorboat Operators,56270.0
+53-5031,Ship Engineers,111790.0
+53-6011,Bridge and Lock Tenders,55370.0
+53-6021,Parking Attendants,34990.0
+53-6031,Automotive and Watercraft Service Attendants,36780.0
+53-6032,Aircraft Service Attendants,43330.0
+53-6041,Traffic Technicians,62050.0
+53-6051,Transportation Inspectors,88540.0
+53-6061,Passenger Attendants,37820.0
+53-6099,"Transportation Workers, All Other",50890.0
+53-7011,Conveyor Operators and Tenders,45080.0
+53-7021,Crane and Tower Operators,72130.0
+53-7031,Dredge Operators,56120.0
+53-7041,Hoist and Winch Operators,67710.0
+53-7051,Industrial Truck and Tractor Operators,48370.0
+53-7061,Cleaners of Vehicles and Equipment,36980.0
+53-7062,"Laborers and Freight, Stock, and Material Movers, Hand",42260.0
+53-7063,Machine Feeders and Offbearers,43660.0
+53-7064,"Packers and Packagers, Hand",37540.0
+53-7065,Stockers and Order Fillers,39540.0
+53-7071,Gas Compressor and Gas Pumping Station Operators,74610.0
+53-7072,"Pump Operators, Except Wellhead Pumpers",63960.0
+53-7073,Wellhead Pumpers,70370.0
+53-7081,Refuse and Recyclable Material Collectors,52820.0
+53-7121,"Tank Car, Truck, and Ship Loaders",59970.0
+53-7199,"Material Moving Workers, All Other",45640.0

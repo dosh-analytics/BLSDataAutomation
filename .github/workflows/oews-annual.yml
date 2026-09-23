@@ -1,0 +1,46 @@
+name: Annual OEWS data pull
+
+# Runs once a year (early May, after the new OEWS release) and on demand.
+on:
+  schedule:
+    - cron: '0 12 1 5 *'   # May 1, 12:00 UTC
+  workflow_dispatch: {}     # manual "Run workflow" button
+
+permissions:
+  contents: write           # needed to commit the refreshed CSVs back
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # SOC wages come from the BLS API -- fully automatic.
+      - name: Pull SOC wages
+        env:
+          BLS_API_KEY: ${{ secrets.BLS_API_KEY }}
+        run: python oews_soc.py
+
+      # NAICS wages also come from the BLS API (needs the NAICS code list in
+      # 2022_NAICS_Structure.csv). Fully automatic, like SOC.
+      - name: Pull NAICS wages
+        env:
+          BLS_API_KEY: ${{ secrets.BLS_API_KEY }}
+        run: python oews_naics.py
+
+      - name: Commit refreshed CSVs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add soc_wages.csv naics_wages.csv naics_6digit_wages.csv \
+                  government_wages.csv soc_codes.csv
+          git commit -m "Annual OEWS refresh ($(date +%Y-%m-%d))" \
+            || echo "No changes to commit"
+          git push
