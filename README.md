@@ -33,17 +33,6 @@ columns — `wage_source_level` and `wage_source_naics` — see below.
 
 ## How it works
 
-### Data source
-
-OEWS is an **annual snapshot** survey. Unlike monthly series (CPI, CES), the BLS
-API only ever returns the **latest** published OEWS year — asking for an older
-year returns "No Data Available." So the scripts always query the current year
-(with a one-year lookback window to absorb the release lag) and take the newest
-data point. Historical years are **not** available from the API; they only exist
-as downloadable flat files, which this pipeline does not use.
-
-Each wage is BLS data type `04` = **annual mean wage**.
-
 ### `oews_soc.py` — occupation wages
 
 1. Reads the occupation code list from `soc_codes.csv`.
@@ -83,14 +72,6 @@ It then produces three files:
   separately under the `999` designation codes (the "including schools,
   hospitals, and USPS" variants).
 
-### Why the backfill stops at 3-digit
-
-The BLS API publishes industry wages at 3–6-digit NAICS, but **not** at the
-2-digit sector level (only BLS's flat files have that), and NAICS has no 1-digit
-level. So the backfill can only climb to 3-digit. Codes whose most specific
-published wage was at the sector level end up **blank** (~54 of them) — these are
-mostly farming and other thinly-surveyed industries.
-
 ---
 
 ## Repository layout
@@ -112,25 +93,6 @@ not delete them. Everything in `outputs/` is regenerated on each run.
 
 ---
 
-## Running locally
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-
-# BLS API key (free: https://data.bls.gov/registrationEngine/)
-echo "BLS_API_KEY=your_key_here" > .env
-
-python oews_soc.py      # -> outputs/soc_wages.csv
-python oews_naics.py    # -> outputs/naics_wages.csv, naics_6digit_wages.csv, government_wages.csv
-```
-
-The key is read via `python-dotenv` from `.env` (which is gitignored and never
-committed). `oews_naics.py` makes ~40 API calls and takes ~30–40 seconds.
-
----
-
 ## The automation (GitHub Action)
 
 The workflow [`.github/workflows/oews-annual.yml`](.github/workflows/oews-annual.yml)
@@ -141,11 +103,11 @@ refreshes the data without anyone running the scripts by hand.
 ```yaml
 on:
   schedule:
-    - cron: '0 12 1 5 *'   # May 1, 12:00 UTC, once a year
+    - cron: '0 12 1 6 *'   # June 1, 12:00 UTC, once a year
   workflow_dispatch: {}     # manual "Run workflow" button
 ```
 
-- **Scheduled:** every May 1 (after the new OEWS release). Edit the `cron` line
+- **Scheduled:** every June 1 (after the new OEWS release). Edit the `cron` line
   to change the date.
 - **Manual:** Actions tab → *Annual OEWS data pull* → **Run workflow**.
 

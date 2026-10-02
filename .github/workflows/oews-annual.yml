@@ -1,9 +1,9 @@
 name: Annual OEWS data pull
 
-# Runs once a year (early May, after the new OEWS release) and on demand.
+# Runs once a year (June 1, after the new OEWS release) and on demand.
 on:
   schedule:
-    - cron: '0 12 1 5 *'   # May 1, 12:00 UTC
+    - cron: '0 12 1 6 *'   # June 1, 12:00 UTC
   workflow_dispatch: {}     # manual "Run workflow" button
 
 permissions:
