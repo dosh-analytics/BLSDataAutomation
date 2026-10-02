@@ -91,11 +91,13 @@ def decode_oews(df):
 
 
 if __name__ == '__main__':
+    os.makedirs('outputs', exist_ok=True)
+
     # SOC: wage per occupation, all industries -- from the BLS API.
     # The API only returns the latest OEWS year, so end at the current year.
     soc_codes = get_soc_code()
     soc = oews_occupation_wages(soc_codes, datetime.now().year - 1, datetime.now().year)
     soc = soc[['soc', 'title', 'mean_annual_wage']].rename(
         columns={'soc': 'code', 'title': 'title', 'mean_annual_wage': 'wage'})
-    soc.to_csv('soc_wages.csv', index=False)
-    print(f'SOC: {len(soc)} rows -> soc_wages.csv')
+    soc.to_csv('outputs/soc_wages.csv', index=False)
+    print(f'SOC: {len(soc)} rows -> outputs/soc_wages.csv')

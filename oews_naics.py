@@ -143,20 +143,22 @@ def government_wages(year=None):
 
 
 if __name__ == '__main__':
+    os.makedirs('outputs', exist_ok=True)
+
     # NAICS industry wages (4/5/6-digit) -- from the BLS API
     naics = naics_industry_wages()
-    naics.to_csv('naics_wages.csv', index=False)
-    print(f'NAICS: {len(naics)} rows -> naics_wages.csv')
+    naics.to_csv('outputs/naics_wages.csv', index=False)
+    print(f'NAICS: {len(naics)} rows -> outputs/naics_wages.csv')
 
     # NAICS 6-digit, wage backfilled 6 -> 5 -> 4 -> 3 digit
     six = naics_6digit_backfilled()
-    six.to_csv('naics_6digit_wages.csv', index=False)
+    six.to_csv('outputs/naics_6digit_wages.csv', index=False)
     filled = six['wage'].notna().sum()
-    print(f'NAICS 6-digit: {len(six)} rows -> naics_6digit_wages.csv '
+    print(f'NAICS 6-digit: {len(six)} rows -> outputs/naics_6digit_wages.csv '
           f'({filled} filled, {len(six) - filled} blank)')
     print(six['wage_source_level'].value_counts(dropna=False).to_string())
 
     # Government (999 codes)
     gov = government_wages()
-    gov.to_csv('government_wages.csv', index=False)
-    print(f'\nGovernment: {len(gov)} rows -> government_wages.csv')
+    gov.to_csv('outputs/government_wages.csv', index=False)
+    print(f'\nGovernment: {len(gov)} rows -> outputs/government_wages.csv')

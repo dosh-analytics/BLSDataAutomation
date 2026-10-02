@@ -39,8 +39,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add soc_wages.csv naics_wages.csv naics_6digit_wages.csv \
-                  government_wages.csv soc_codes.csv
+          git add outputs/
           git commit -m "Annual OEWS refresh ($(date +%Y-%m-%d))" \
             || echo "No changes to commit"
           git push
